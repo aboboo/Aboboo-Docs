@@ -14,7 +14,7 @@ Aboboo 是开放式工具，能够使用MP3学习。
 
 .. Hint:: 
   1. 如果当前不在 **文件** 界面，点击主菜单的文件按钮后，不会弹出对话框，而是转到 **文件** 界面，这时，请再次点击文件按钮即可弹出对话框。
-  2. 批量添加MP3，请参看 :doc:`文件列表</tutorial/jie-mian>` 。
+  2. 批量添加MP3，请参看 :doc:`文件列表<jie-mian>` 。
 
 加载MP3后，立即开始播放，同目录下的同名LRC字幕文件自动加载：
 
@@ -120,7 +120,7 @@ LRC字幕
     | 好东西不敢独吞，赶紧来跟大家分享。
     |
 
-* **第一步** 首先我们自定义一个 :doc:`全文复读方案</tutorial/quan-wen-fu-du-fang-an>` :
+* **第一步** 首先我们自定义一个 :doc:`全文复读方案<quan-wen-fu-du-fang-an>` :
 
     |     我自己自定义了一个三次复读方案：
     |         第一遍 100% 语速
@@ -169,5 +169,5 @@ LRC字幕
 
 调整断句
 ========
-请参看 :doc:`智能断句</tutorial/zhi-neng-duan-ju>` 和 :doc:`手工断句</tutorial/shou-gong-duan-ju>` 。
+请参看 :doc:`智能断句<zhi-neng-duan-ju>` 和 :doc:`手工断句<shou-gong-duan-ju>` 。
 
