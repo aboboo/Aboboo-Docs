@@ -35,7 +35,9 @@ Aboboo 2.4 帮助文档
    ke-jian-zhi-zuo
    faq
 
-.. `离线阅读 <http://aboboo.com/docs/Aboboo2.1.2-QuickStart.zip>`_     `免费下载 <http://aboboo.com/download/>`_  `免费注册 <http://aboboo.com/account/signup/>`_
+`免费下载Aboboo <http://www.aboboo.com/download/>`_
+
+`免费注册Aboboo <http://www.aboboo.com/account/signup/>`_
 
 .. 本作品采用 `知识共享署名 3.0 Unported许可协议 <http://creativecommons.org/licenses/by/3.0/>`_  进行许可。
 
