@@ -35,6 +35,14 @@ Aboboo 2.4 帮助文档
    ke-jian-zhi-zuo
    faq
 
+Getting help
+============
+   :doc:`如何做到 <howto/index>`
+   :doc:`功能主题 <topics/index>`
+
+
+
+
 `免费下载Aboboo <http://www.aboboo.com/download/>`_
 
 `免费注册Aboboo <http://www.aboboo.com/account/signup/>`_
