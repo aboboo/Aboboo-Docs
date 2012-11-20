@@ -34,6 +34,11 @@ Aboboo 2.4 帮助文档
    ting-yin-cha-zi
    ke-jian-zhi-zuo
    faq
+   
+   howto/index
+   topics/index
+   troubleshooting/index
+
 
 Getting help
 ============

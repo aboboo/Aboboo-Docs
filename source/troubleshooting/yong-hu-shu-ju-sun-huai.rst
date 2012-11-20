@@ -1,11 +1,13 @@
-突然之间 课件/MP3/电影 都打不开了
-####################
+课件/MP3/电影 都打不开
+##############
 
-突然之间，课件/MP3/电影 都打不开了，软件提示错误：
+一直用得很好，但突然之间，课件/MP3/电影 都打不开了，软件提示错误：
 
-    不能播放该文件！原因：Access violation at address xxxxxxxx in module 'aboboo.exe'...
 
-    .. image:: /images/troubleshooting/yong-hu-shu-ju-sun-huai.png
+  **不能播放该文件！原因：Access violation at address xxxxxxxx in module 'aboboo.exe'...**
+
+  .. image:: 
+    /images/troubleshooting/yong-hu-shu-ju-sun-huai.png
 
 这很可能是您的用户数据文件损坏了，试试这个办法：
 
