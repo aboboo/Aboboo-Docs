@@ -6,9 +6,10 @@
 .. toctree::
    :maxdepth: 1
 
-   xue-xi-ji-lu
+   fu-du
    gen-du
    mp3-player
+   xue-xi-ji-lu
 
 .. seealso::
 
