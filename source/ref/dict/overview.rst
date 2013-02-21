@@ -4,12 +4,11 @@
 
 .. contents:: :local:
 
+.. _dict-install:
+
 安装字典
 ========
-如果查字典遇到错误，或者查询结果中没有图片、常用搭配、中文解释、例句等内容，或者不能查询中文，
-均是因为缺少相关的字典文件，请 `下载字典文件 <http://aboboo.com/download/>`_ 。
-下载字典文件后，把字典拷贝到程序目录的data子目录下（如C:\\Aboboo2.3\\data），重启Aboboo。
-这个过程就是 **安装字典** 。
+如果缺少字典文件，查字典报错，不能查询中文，没有图片、常用搭配、中文解释、例句等，`请下载字典包 <http://aboboo.com/download/>`_ 并解压到data子目录（如C:\\Program Files\\Aboboo\\data），重启Aboboo。
 
 * 缺少英英字典文件：
   
