@@ -1,13 +1,14 @@
 故障检修
-####
+########
 
-常见故障和帮助修复故障的方法
+.. rubric:: 常见故障及有助于修复故障的方法
 
 .. toctree::
    :maxdepth: 1
    
    yong-hu-shu-ju-sun-huai
-
+   yin-pin-dou-dong
+   database-image-is-malformed
 
 .. seealso::
 

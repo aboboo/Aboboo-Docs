@@ -1,35 +1,37 @@
-====
-运行
-====
+============
+运行Aboboo
+============
 
-安装版请运行桌面快捷方式，便携版请运行 **aboboo.exe** 。
+* **安装版:** 运行桌面快捷方式 
+ .. image:: /images/run-shortcut.png
 
-首次运行，需要初始化配置，初始化在一分钟内完成：
+* **便携版:** 运行 **aboboo.exe**  
+ .. image:: /images/run-program.png
 
-.. image:: /images/P00-0.PNG
+* **首次运行:** 一分钟内完成初始化配置，为Aboboo准备运行环境，初始化用户数据，只在首次运行时出现。
+ .. image:: /images/first-run.png
 
-这个过程为Aboboo准备运行环境，初始化一些用户设置，只在首次运行时出现。
+* **启动画面:** 初始化完成后，出现 Aboboo 启动画面。
 
+ .. image:: /images/splash-screen.png
 
+* **主界面:** 启动后进入主界面，主界面大致分成四部分：
 
-初始化完成后，出现 Aboboo 启动画面：
+ * 上: 菜单栏
+ * 下: 状态栏
+ * 左: 用户面板/播放列表
+ * 右: 主内容区/资源区
 
-.. image:: /images/P00-1.PNG
+ .. image:: /images/main-screen.jpg
 
-启动后进入主界面，主界面大致分成四部分：
+自动登录并保持在线
+==================
+建议您注册一个学习帐号，选择自动登录并保持在线使用的习惯，Aboboo综合每天的学习情况，奖励学习积分。
 
-* 上：菜单栏
-* 下：状态栏
-* 左：用户面板和文件列表
-* 右：主内容区
+.. image:: /images/daily-bonus.jpg
 
-.. image:: /images/P00-2.PNG
+`免费下载 <http://aboboo.com/download/>`_ ！ `免费注册 <http://aboboo.com/account/signup/>`_ ！马上开始学习！
 
-在线使用
-=========
-建议您在学习时，登录并保持在线，Aboboo综合您的学习情况，为您奖励学习积分。
-`免费下载 <http://aboboo.com/download/>`_ ！ `免费注册 <http://aboboo.com/account/signup/>`_ ！一起享受最纯粹的学习！
-
-离线使用
-=========
-Aboboo可以离线使用哦！更棒的是，即使离线很久，一旦在线，系统仍然奖励您学习积分。
+支持离线学习
+=============
+Aboboo也支持离线学习，更棒的是，即使离线很久，一旦在线，系统仍然奖励您学习积分。

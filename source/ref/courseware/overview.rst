@@ -17,7 +17,7 @@
 
 您会观察到波形图中几个形状不一的东西以快慢不等的速度从左往右移动，请用鼠标在波形图上点几下试试，这就是“ **波形复读** ”，挺方便的吧？
 
-.. image:: /images/P01.PNG
+.. image:: /images/play-courseware.jpg
 
 .. _courseware-download:
 
