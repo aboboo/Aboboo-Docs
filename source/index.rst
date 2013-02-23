@@ -17,13 +17,13 @@
 
 * **快速入门:**
   :doc:`首次运行 <intro/run>` |
-  :doc:`使用课件 <intro/courseware>` |
-  :doc:`复读 <intro/listening>` |
-  :doc:`听写 <intro/dictating>` |
-  :doc:`跟读 <intro/speaking>` |
-  :doc:`造句 <intro/making-sentence>` |
-  :doc:`MP3 <intro/mp3>` |
-  :doc:`视频 <intro/video>`
+  :doc:`打开课件 <intro/courseware>` |
+  :doc:`复读 <intro/listening>`
+..  :doc:`听写 <intro/dictating>` |
+..  :doc:`跟读 <intro/speaking>` |
+..  :doc:`造句 <intro/making-sentence>` |
+..  :doc:`MP3 <intro/mp3>` |
+..  :doc:`视频 <intro/movie>`
 
 操作指南
 =========
@@ -59,7 +59,6 @@
   :doc:`全文复读方案 <ref/listen/quan-wen-fu-du-fang-an>`
 
 * **练口语:**
-  :doc:`音节级打分 <ref/oral/overview>` |
   :doc:`随意读 <ref/oral/sui-yi-du>` |
   :doc:`全文读 <ref/oral/quan-wen-du>`
 
