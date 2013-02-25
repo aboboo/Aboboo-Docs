@@ -24,14 +24,20 @@
 
  .. image:: /images/main-screen.jpg
 
-自动登录并保持在线
+注册学习帐号
 ==================
-建议您注册一个学习帐号，选择自动登录并保持在线使用的习惯，Aboboo综合每天的学习情况，奖励学习积分。
+注册学习帐号，选择自动登录，保持在线使用的习惯，Aboboo综合每天的学习情况，奖励学习积分。如果没有条件保持在线，Aboboo也支持离线学习。
 
-.. image:: /images/daily-bonus.jpg
+ * 注册学习帐号
+ .. image:: /images/click-signup.png
+ 
+ * 填写表单，完成注册
+ .. image:: /images/signup-form.png
+ 
+ * 选择自动登录
+ .. image:: /images/setup-auto-login.png
+ 
+ * 领取每日积分奖励
+ .. image:: /images/daily-bonus.png
 
-`免费下载 <http://aboboo.com/download/>`_ ！ `免费注册 <http://aboboo.com/account/signup/>`_ ！马上开始学习！
-
-支持离线学习
-=============
-Aboboo也支持离线学习，更棒的是，即使离线很久，一旦在线，系统仍然奖励您学习积分。
+:doc:`第二部分：打开文件 <courseware>`
