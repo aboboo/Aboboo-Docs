@@ -18,7 +18,7 @@
 * **快速入门:**
   :doc:`首次运行 <intro/run>` |
   :doc:`打开课件 <intro/courseware>` |
-  :doc:`复读的基本操作 <intro/listening>`
+  :doc:`必须掌握的基本操作 <intro/listening>`
 ..  :doc:`听写 <intro/dictating>` |
 ..  :doc:`跟读 <intro/speaking>` |
 ..  :doc:`造句 <intro/making-sentence>` |
@@ -29,11 +29,11 @@
 =========
 
 * **MP3:**
-  :doc:`使用MP3学习 <ref/mp3/overview>` |
-  :ref:`LRC字幕 <mp3-lrc>` |
+  :doc:`使用MP3 <ref/mp3/overview>` |
+  :ref:`加载字幕 <mp3-lrc>` |
   :doc:`智能断句 <ref/zhi-neng-duan-ju>` |
   :doc:`手工断句 <ref/shou-gong-duan-ju>` |
-  :ref:`使用校对文本 <mp3-checking-text>` |
+  :ref:`听写和校对 <mp3-checking-text>` |
   :doc:`导出到便携设备 <ref/mp3/export>`
    
 * **电影:**

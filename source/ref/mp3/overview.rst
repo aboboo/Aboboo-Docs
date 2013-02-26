@@ -1,5 +1,5 @@
 ================
-使用MP3文件学习
+MP3听写
 ================
 
 Aboboo 是开放式工具，能够使用MP3学习。
@@ -43,12 +43,15 @@ Aboboo自动加载MP3文件所在目录下的同名LRC文件，LRC时间戳用�
   * 在弹出对话框中打开LRC文件（或SRT文件）:
   .. image:: /images/load-lrc-or-srt.png
  
-  * 加载字幕有可能改变断点、参照文本、译文等，用户决定怎样使用LRC :
+  * 加载字幕有可能改变断点、参照文本、译文等，用户决定怎样使用LRC:
   .. image:: /images/determine-how-to-use-lrc.png
   
-  * 支持双语字幕，**自动分离到中文和英文** ：
+  * 加载双语字幕时，勾选对话框中的 **自动分离内容到原文和译文** ，能够将字幕内容分别加载到原文和译文:
+  .. image:: /images/check-auto-split-text-and-tran.png
 
-    LRC字幕，能够自动分离内容到原文和译文::
+  * 双语字幕示例: 
+    
+    LRC字幕示例，这样的内容能够被自动分离到原文和译文::
     
       [00:00.88]Last week I went to the theatre.      上星期我去看戏。
       [00:05.36]I had a very good seat.      我的座位很好，
@@ -70,7 +73,7 @@ Aboboo自动加载MP3文件所在目录下的同名LRC文件，LRC时间戳用�
       [01:05.16]the young man said rudely.      那男的毫不客气地说。
       [01:08.88]'This is a private conversation!'     “这是私人谈话。”
 
-    SRT字幕，也能够自动分离内容到原文和译文::
+    SRT字幕示例，这样的内容也能够被自动分离到原文和译文::
     
       1
       00:00:00,880 --> 00:00:03,960
@@ -148,62 +151,34 @@ Aboboo自动加载MP3文件所在目录下的同名LRC文件，LRC时间戳用�
       00:01:08,880 --> 00:01:14,040
       'This is a private conversation!'      “这是私人谈话。”
       
-.. Hint:: 
-  缺少参照文本时，一些功能不可用或不完整，如不能造句练习，听写时无法校对。
-
-
-断点批量移动
-============
-有时遇到时间轴整体提前或落后的字幕，相对时间点正确，但起点不正确，这样的字幕，需要重新校准第一句的时间轴，其它句子随动。
-
-.. image:: /images/P1054.PNG
-
 
 .. _mp3-checking-text:
 
-制作听写校对文本
+听写和校对
 ================
-* **第一步** 打开MP3，进入 **学习** >> **单句听写** >> **导入** >> **打开文件到单句听写** 。
 
-  .. image:: /images/P1032.PNG
+  * Aboboo有难度递进的三层听写功能，“抠词”、“单句”、“自由”，分别对应“单词”，“句子”，“篇章”。
+  
+    “抠词听写”必须有“参照文本”。
+  
+    “单句听写”和“自由听写”可以没有参照文本，但如果需要校对，就必须有“校对文本”。
+    
+  .. image:: /images/menu-dictation.png
 
-|
+  * 单句听写和自由听写时，如果缺少“校对文本”，软件会提示您“加载校对文本”:  
+  .. image:: /images/status-bar-checking-text-nonexistence.png
 
-* 确认操作：
+  * 进入“校对文本编辑界面”，完成导入和编辑后，返回听写，校对器自动加载新的校对文本并重新校对:
+  .. image:: /images/load-checking-text.png
 
-  .. image:: /images/P1033.PNG
-    :width: 400px
+  * 实时校对:
+  .. image:: /images/sent-dictation-checking-on-the-fly.png
+  
+  * 按下 :kbd:`F1` 校对:
+  .. image:: /images/sent-dictation-checking-window.png
 
-|
-
-* **第二步** **导出** >> **保存为该音频的参照文本** 。
-
-  .. image:: /images/P1034.PNG
-
-|
-
-* 确认操作：
-
-  .. image:: /images/P1035.PNG
-    :width: 350px
-
-|
-
-* **第三步** **操作** >> **清除本次听写** 。
-
-  .. image:: /images/P1036.PNG
-
-|
-
-* 确认操作：
-
-  .. image:: /images/P1037.PNG
-    :width: 400px
-
-|
-
-* 听写可以校对了！
-
-  .. image:: /images/P1038.PNG
-    :width: 500px
-
+校对文本自动加载规则
+================================
+1. 如果当前文件有参照文本，则采用参照文本作为校对文本；
+2. 如果没有参照文本，而且是加载了以前听写记录继续听写的，则采用所加载听写记录的校对文本；
+3. 您也可以通过“校对文本编辑界面”从其他文件中加载校对文本，或者直接编辑校对文本。

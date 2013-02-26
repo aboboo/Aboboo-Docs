@@ -1,5 +1,5 @@
 ================
-复读功能的基本操作
+必须掌握的基本操作
 ================
 
 .. image:: /images/main-screen-overview.png
