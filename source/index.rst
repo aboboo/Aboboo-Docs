@@ -19,11 +19,6 @@
   :doc:`首次运行 <intro/run>` |
   :doc:`打开课件 <intro/courseware>` |
   :doc:`必须掌握的基本操作 <intro/listening>`
-..  :doc:`听写 <intro/dictating>` |
-..  :doc:`跟读 <intro/speaking>` |
-..  :doc:`造句 <intro/making-sentence>` |
-..  :doc:`MP3 <intro/mp3>` |
-..  :doc:`视频 <intro/movie>`
 
 操作指南
 =========

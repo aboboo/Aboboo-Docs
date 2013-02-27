@@ -30,7 +30,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Aboboo-Docs'
-copyright = u'2006 - 2013, Aboboo Team'
+copyright = u'2007 - 2013, Aboboo Team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
