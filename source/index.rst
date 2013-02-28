@@ -6,7 +6,7 @@
 欢迎使用Aboboo 2.5 帮助文档
 =============================
 
-.. rubric:: 阅读这份文档，了解Aboboo，更高效地学习外语。 `免费下载Aboboo <http://www.aboboo.com/download/>`_ | `注册学习账号 <http://www.aboboo.com/account/signup/>`_
+.. rubric:: 阅读这份文档，了解Aboboo，更高效地学习外语。
 
 首要步骤
 =========
@@ -26,8 +26,8 @@
 * **MP3:**
   :doc:`使用MP3 <ref/mp3/overview>` |
   :ref:`加载字幕 <mp3-lrc>` |
-  :doc:`智能断句 <ref/zhi-neng-duan-ju>` |
-  :doc:`手工断句 <ref/shou-gong-duan-ju>` |
+  :doc:`智能断句 <ref/automatic-segmentation>` |
+  :doc:`手工断句 <ref/manual-segmentation>` |
   :ref:`听写和校对 <mp3-checking-text>` |
   :doc:`导出到便携设备 <ref/mp3/export>`
    
@@ -87,5 +87,5 @@
 文档计划
 ================
 
-* **文档和项目:** Aboboo功能很多，能用于多种学习方法，也许您独有优秀的学习理论和实践体会，`欢迎您贡献一份力量，加入 Aboboo-Docs <https://github.com/aboboo/Aboboo-Docs/>`_ 。 
+* **文档和项目:** Aboboo功能很多，适用多种学习方法，也许您独有优秀的理论和实践，`欢迎您贡献一份力量，加入 Aboboo-Docs <https://github.com/aboboo/Aboboo-Docs/>`_ 。 
 * **授权和更新:** 这份文档使用 `知识共享署名 3.0 Unported许可协议 <http://creativecommons.org/licenses/by/3.0/>`_  进行许可，文档将保持更新，尽可能与Aboboo软件保持同步。

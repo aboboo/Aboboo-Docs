@@ -33,11 +33,13 @@
  
  * 填写表单，完成注册
  .. image:: /images/signup-form.png
- 
+
  * 选择自动登录
  .. image:: /images/setup-auto-login.png
  
  * 领取每日积分奖励
  .. image:: /images/daily-bonus.png
+
+.. tip:: 完成邮箱认证后，可获得500积分奖励。
 
 :doc:`第二部分：打开文件 <courseware>`
