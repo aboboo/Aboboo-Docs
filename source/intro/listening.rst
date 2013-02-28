@@ -122,5 +122,5 @@
   .. image:: /images/learning-menu.png
   
 
-您已经了解Aboboo的基本操作，现在开始实践！ 或者返回 :doc:`文档页面 </index.rst>` 进一步阅读。
+您已经了解Aboboo的基本操作，现在开始实践！ 或者返回 :ref:`文档页面 <index>` 进一步阅读。
 

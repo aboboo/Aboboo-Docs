@@ -73,15 +73,19 @@ Aboboo支持上百种音视频格式，其中的常见格式罗列在下表中:
 Aboboo自动加载电影文件所在目录下的同名字幕文件，字幕时间戳用作断点，字幕文本用作电影的参照文本。
 
   * 也可以手动加载字幕: :menuselection:`视频窗口 --> 右键弹出菜单 --> 加载字幕`
+  
   .. image:: /images/pop-menu-load-subtitle.png
 
   * 在弹出对话框中打开SRT文件:
+  
   .. image:: /images/dialog-load-subtitle-srt.png
  
   * 可以加载双语字幕，也可以为原文和译文分别加载字幕:
+  
   .. image:: /images/determine-how-to-use-srt.png
   
   * 字幕加载成功
+  
   .. image:: /images/play-movie-overview.png
 
   * 字幕显示模式，推荐使用文本模式（支持字幕取词），
