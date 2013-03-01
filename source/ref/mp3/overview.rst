@@ -156,37 +156,56 @@ Aboboo自动加载MP3文件所在目录下的同名LRC文件，LRC时间戳用�
       'This is a private conversation!'      “这是私人谈话。”
       
 
-.. _mp3-checking-text:
+.. _dictation-checking-and-correcting:
 
 听写和校对
 ================
+.. versionchanged:: 2.5
 
-  * Aboboo有难度递进的三层听写功能，“抠词”、“单句”、“自由”，分别对应“单词”，“句子”，“篇章”。
+* Aboboo有三级难度递进的听写功能，“抠词”、“单句”、“自由”，分别对应“单词”，“句子”，“篇章”。
   
-    “抠词听写”必须有“参照文本”。
+  “抠词听写”必须有“参照文本”。
   
-    “单句听写”和“自由听写”可以没有参照文本，但如果需要校对，就必须有“校对文本”。
+  “单句听写”和“自由听写”可以没有参照文本，但如果需要校对，就必须有“校对文本”。
     
-  .. image:: /images/menu-dictation.png
+.. image:: /images/menu-dictation.png
 
-  * 单句听写和自由听写时，如果缺少“校对文本”，软件会提示您“加载校对文本”:  
+* 单句听写和自由听写时，如果缺少“校对文本”，软件会提示您“加载校对文本”:  
 
-  .. image:: /images/status-bar-checking-text-nonexistence.png
+.. image:: /images/status-bar-checking-text-nonexistence.png
 
-  * 进入“校对文本编辑界面”，完成导入和编辑后，返回听写，校对器自动加载新的校对文本并重新校对:
+* 进入“校对文本编辑界面”，完成导入和编辑后，返回听写，校对器自动加载新的校对文本并重新校对:
 
-  .. image:: /images/load-checking-text.png
+.. image:: /images/load-checking-text.png
 
-  * 实时校对:
+* 实时校对:
 
-  .. image:: /images/sent-dictation-checking-on-the-fly.png
+.. image:: /images/sent-dictation-checking-on-the-fly.png
   
-  * 按下 :kbd:`F1` 校对:
+* 按下 :kbd:`F1` 校对:
 
-  .. image:: /images/sent-dictation-checking-window.png
+.. image:: /images/sent-dictation-checking-window.png
 
 校对文本自动加载规则
 ================================
+.. versionchanged:: 2.5
+
 1. 如果当前文件有参照文本，则采用参照文本作为校对文本；
 2. 如果没有参照文本，而且是加载了以前听写记录继续听写的，则采用所加载听写记录的校对文本；
 3. 您也可以通过“校对文本编辑界面”从其他文件中加载校对文本，或者直接编辑校对文本。
+
+消除标点符号对正确率的影响
+=============================
+.. versionadded:: 2.5
+
+有些课件资料的参照文本的含有非标准的标点符号，英文单引号 :kbd:`'` 很多误作全角字符 :kbd:`’` ，
+
+即使听写结果没问题，成绩单显示标点有错，遇到这种情况，可以把这些特殊的符号加入到 :menuselection:`文件 --> 参数设置 --> 基本设置 --> 校对标点忽略列表`:
+
+.. image:: /images/preference-basic-checking-ignore-list.png
+
+* 默认列表: :kbd:`‘='|’='|`='|。=.|“="|”="|` ，向列表添加的内容须遵守列表规则。
+* 列表规则: :kbd:`=` 左右两边的字符等价，:kbd:`|` 分割多组等价字符。
+
+.. tip:: 也可以用 :menuselection:`课件 --> 编辑句子` 直接修改参照文本。
+

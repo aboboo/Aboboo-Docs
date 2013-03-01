@@ -28,7 +28,7 @@
   :ref:`加载字幕 <mp3-lrc>` |
   :doc:`智能断句 <ref/automatic-segmentation>` |
   :doc:`手工断句 <ref/manual-segmentation>` |
-  :ref:`听写和校对 <mp3-checking-text>` |
+  :ref:`听写和校对 <dictation-checking-and-correcting>` |
   :doc:`导出到便携设备 <ref/mp3/export>`
    
 * **电影:**
