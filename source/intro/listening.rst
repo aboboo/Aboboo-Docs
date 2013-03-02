@@ -109,7 +109,7 @@
 
   * 原文被隐藏 
 
-  .. image:: /images/fulltext-text-display-off.png
+  .. image:: /images/article-mode-text-display-off.png
   
 以上是Aboboo复读界面的基本操作，进入学习菜单，使用更多学习功能：
 

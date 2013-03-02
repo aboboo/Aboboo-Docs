@@ -8,7 +8,7 @@
 
 自由听写
 ========
-.. image:: /images/dictation-fulltext-overview.png
+.. image:: /images/dictation-article-overview.png
 
 自由听写提供更自由的控制，摆脱单句限制：
 
@@ -24,7 +24,7 @@
 ========================
 听写完毕后，点击 :menuselection:`完成`，得到成绩单：
 
-.. image:: /images/dictation-fulltext-report.png
+.. image:: /images/dictation-article-report.png
 
 如果听写未完成，也可以先保存，下次接着听写该文件时，可以选择加载上次的存档进度:
 

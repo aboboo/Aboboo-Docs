@@ -1,7 +1,7 @@
 我怎么做才能...
 ##################
 
-直接回答"我怎么做才能..."，不深入阐述答案下隐藏的原理，不同时回答"为什么要这样做..."，"为什么不那样做..."，给出正确的方法，完成明确的任务。
+.. rubric:: 给出正确的方法。
 
 .. toctree::
    :maxdepth: 1
@@ -10,9 +10,3 @@
    shi-sui-yi-du-ju-you-ping-fen-gong-neng
    geng-huan-ke-jian-de-yin-pin
    resync-subtitle
-
-.. seealso::
-
-    `Aboboo问答`_ 提问，解答，学习，分享。
-
-    .. _Aboboo问答: http://www.aboboo.com/qa/

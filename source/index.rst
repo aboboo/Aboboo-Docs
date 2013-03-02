@@ -6,7 +6,7 @@
 欢迎使用Aboboo 2.5 帮助文档
 =============================
 
-.. rubric:: 阅读这份文档，了解Aboboo，更高效地学习外语。
+.. rubric:: 阅读这份文档，了解Aboboo，学外语更高效。
 
 首要步骤
 =========
@@ -32,7 +32,6 @@
   :doc:`导出到便携设备 <ref/mp3/export>`
    
 * **电影:**
-  :doc:`看电影学外语 <ref/movie/overview>` |
   :ref:`支持的视频格式 <movie-support-format>` |
   :ref:`加载字幕 <movie-subtitle>` |
   :ref:`中英字幕分离器 <movie-subtitle-split>` |
@@ -40,8 +39,7 @@
   
 * **课件:**
   :doc:`使用课件 <ref/courseware/overview>` |
-  :ref:`下载 <courseware-download>` |
-  :ref:`授权 <courseware-authorize>` |
+  :ref:`课件授权 <courseware-authorize>` |
   :doc:`制作课件 <ref/courseware/diy>`
 
 * **练听力:**
@@ -55,15 +53,15 @@
 
 * **练口语:**
   :doc:`随意读 <ref/oral/sui-yi-du>` |
-  :doc:`全文读 <ref/oral/quan-wen-du>`
+  :doc:`全文读 <ref/oral/recite-the-article>`
 
 * **练听写:**
   :doc:`抠词听写 <ref/dictation/word>` |
   :doc:`单句听写 <ref/dictation/sentence>` |
-  :doc:`自由听写 <ref/dictation/full-text>`
+  :doc:`自由听写 <ref/dictation/article>`
 
 * **练造句:**
-  :doc:`造句 <ref/make-sentence>`
+  :doc:`造句练习 <ref/make-sentence>`
 
 * **查字典:**
   :doc:`查字典 <ref/dict/overview>` |
@@ -71,18 +69,18 @@
   :doc:`听音查字 <ref/dict/ting-yin-cha-zi>`
    
 * **工具箱:**
-  :doc:`单词发音训练 <ref/tools/dan-ci-fa-yin-xun-lian>` |
-  :doc:`音频合并器 <ref/tools/yin-pin-ti-qu-qi>` |
-  :doc:`音频提取器 <ref/tools/yin-pin-he-bing-qi>` |
-  :doc:`无限录音机 <ref/tools/wu-xian-lu-yin-ji>` |
-  :doc:`静音剪除器 <ref/tools/jin-yin-jian-chu-qi>` |
-  :doc:`文本校对器 <ref/tools/wen-ben-jiao-dui-qi>`
+  :doc:`单词发音训练 </ref/tools/vocabulary-training>`
+
+..  :doc:`音频合并器 <ref/tools/yin-pin-ti-qu-qi>` |
+..  :doc:`音频提取器 <ref/tools/yin-pin-he-bing-qi>` |
+..  :doc:`无限录音机 <ref/tools/wu-xian-lu-yin-ji>` |
+..  :doc:`静音剪除器 <ref/tools/jin-yin-jian-chu-qi>` |
+..  :doc:`文本校对器 <ref/tools/wen-ben-jiao-dui-qi>`
 
 * **更多内容:**
-  :doc:`常见问题 <faq>` |
-  :doc:`如何做到 <howto/index>` |
-  :doc:`特定主题 <topics/index>` |
-  :doc:`故障检修 <troubleshooting/index>`
+  :doc:`如何做到... <howto/index>` |
+  :doc:`常见故障和解决办法 <troubleshooting/index>` |
+  :doc:`常见问题 <faq>`
 
 文档计划
 ================

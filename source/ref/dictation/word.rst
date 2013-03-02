@@ -2,6 +2,8 @@
 抠词听写
 ========
 
+.. rubric:: 使用此功能前请安装七合一字典，:ref:`参考《安装字典》 <dict-install>`
+
 .. contents:: :local:
 
 词是抠出来的
