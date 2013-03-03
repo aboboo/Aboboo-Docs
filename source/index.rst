@@ -64,9 +64,9 @@
   :doc:`造句练习 <ref/make-sentence>`
 
 * **查字典:**
-  :doc:`查字典 <ref/dict/overview>` |
-  :ref:`安装字典 <dict-install>` |
-  :doc:`听音查字 <ref/dict/ting-yin-cha-zi>`
+  :doc:`查字典 <ref/dictionary/overview>` |
+  :doc:`安装字典 <ref/dictionary/install>` |
+  :doc:`听音查字 <ref/dictionary/phonetic-word-search>`
    
 * **工具箱:**
   :doc:`单词发音训练 </ref/tools/vocabulary-training>`
