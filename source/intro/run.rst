@@ -13,8 +13,9 @@
 * **首次运行:** 一分钟内完成初始化配置，为Aboboo准备运行环境，初始化用户数据，只在首次运行时出现。
   
   .. image:: /images/first-run.png
+  .. image:: /images/first-run-data-initialized-succeed.png
 
-* **启动画面:** 初始化完成后，出现 Aboboo 启动画面。
+* **启动画面:** 初始化完成后，请再次启动Aboboo。
 
   .. image:: /images/splash-screen.png
 

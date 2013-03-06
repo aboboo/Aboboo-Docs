@@ -78,9 +78,10 @@
 ..  :doc:`文本校对器 <ref/tools/wen-ben-jiao-dui-qi>`
 
 * **更多内容:**
-  :doc:`如何做到... <howto/index>` |
+  :doc:`数据目录设置 <ref/preference-data-directory>` |
   :doc:`常见故障和解决办法 <troubleshooting/index>` |
-  :doc:`常见问题 <faq>`
+  :doc:`常见问题 <faq>` |
+  :doc:`如何做到... <howto/index>`
 
 文档计划
 ================

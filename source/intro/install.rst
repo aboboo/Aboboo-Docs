@@ -9,11 +9,14 @@
 
 .. rubric:: `免费下载Aboboo <http://www.aboboo.com/download/>`_ 
 
-* 完整版 (1.2 GB)：windows安装包，含全部字典(V2.5尚未发布完整版)。
-* 精简版 (26.5 MB)：windows安装包，仅含英英字典。
-* 便携版 (26.5 MB)：winzip压缩包，仅含英英字典。
+* 精简版 (29.3 MB)：windows安装包，含英英字典。
+* 便携版 (29.1 MB)：winzip压缩包，含英英字典。
+* 完整版 (1.2 GB)：windows安装包，含全部字典(**V2.5尚未布完整版**)。
 
-三个版本的功能完全相同，精简版 + 所有字典 = 完整版。 **V2.5尚未布完整版**
+精简版 + 所有字典 = 完整版
+
+便携版预置了 **aboboo.ini** ，把个人数据目录配置在程序目录下，方便用户随身携带。
+
 
 Win7用户注意
 ================
@@ -31,13 +34,9 @@ Win7用户注意
 .. versionadded:: 2.3
 .. versionchanged:: 2.5
 
-Aboboo每次运行会主动检查是否有更新需要下载，提醒用户并下载更新。
+Aboboo每次运行会主动检查版本并自动下载更新，提醒并等待你退出Aboboo以便完成更新：
 
-.. image:: /images/P1018.PNG
-
-更新器可能会弹出界面，提醒并等待你退出Aboboo：
-
-.. image:: /images/P1019.PNG
+.. image:: /images/aboup-download-succeed.png
 
 完成学习之后，请完全退出Aboboo（注意！不是最小化到系统托盘！），更新器随后完成更新。
 
