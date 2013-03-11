@@ -49,7 +49,7 @@
   :ref:`鼠标控 <listen-mouse-control>` |
   :ref:`进度条控 <listen-progress-bar-control>` |
   :ref:`书签控 <listen-bookmark-control>` |
-  :doc:`全文复读方案 <ref/listen/quan-wen-fu-du-fang-an>`
+  :doc:`全文复读方案 <ref/listen/workflow>`
 
 * **练口语:**
   :doc:`随意读 <ref/oral/sui-yi-du>` |
