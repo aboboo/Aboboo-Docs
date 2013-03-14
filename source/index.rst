@@ -52,8 +52,9 @@
   :doc:`全文复读方案 <ref/listen/workflow>`
 
 * **练口语:**
-  :doc:`随意读 <ref/oral/sui-yi-du>` |
-  :doc:`全文读 <ref/oral/recite-the-article>`
+  :doc:`随意读 <ref/oral/spoken-at-will>` |
+  :doc:`全文读 <ref/oral/recite-the-article>` |
+  :ref:`儿童模式 <spoken-at-will-kid-mode>`
 
 * **练听写:**
   :doc:`抠词听写 <ref/dictation/word>` |

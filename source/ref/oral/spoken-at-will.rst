@@ -47,6 +47,23 @@
 
 .. image:: /images/spoken-at-will-click-word-b.png
 
+
+.. _spoken-at-will-kid-mode:
+
+启用儿童模式
+========================
+
+.. versionadded:: 2.5
+
+儿童练习英语口语，面对严格评分，容易失去兴趣，可通过 :menuselection:`随意读面板菜单 --> 评分纠错 --> 启用儿童模式（评分较为宽松）` 进入儿童评分模式:
+
+.. image:: /images/menu-spoken-at-will-kid-mode.png
+
+启用儿童模式后，口语得分显著提高，评分面板也有相应显示:
+
+.. image:: /images/spoken-at-will-english-sent-score-kid-mode.png
+
+
 管理跟读录音
 ==============
 Aboboo记录每次跟读录音，这些录音可以删除，可以导出。
