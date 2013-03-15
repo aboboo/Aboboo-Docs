@@ -7,7 +7,7 @@
    :maxdepth: 1
 
    hui-fu-ke-jian-nei-rong
-   shi-sui-yi-du-ju-you-ping-fen-gong-neng
+   tell-me-exactly-which-word-and-sound-i-am-having-trouble-with
    geng-huan-ke-jian-de-yin-pin
    resync-subtitle
    export-content-from-courseware

@@ -55,7 +55,8 @@
 * **练口语:**
   :doc:`随意读 <ref/oral/spoken-at-will>` |
   :doc:`全文读 <ref/oral/recite-the-article>` |
-  :ref:`儿童模式 <spoken-at-will-kid-mode>`
+  :ref:`儿童模式 <spoken-at-will-kid-mode>` |
+  :ref:`Pimsleur 皮姆斯勒 学习法 <dr-pimsleur>`
 
 * **练听写:**
   :doc:`抠词听写 <ref/dictation/word>` |

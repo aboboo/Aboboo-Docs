@@ -2,7 +2,7 @@
 随意读
 ========
 
-.. rubric:: “视觉口语训练引擎”(VOTE)从发音、音调、语速、音量等多方面考量英语口语，音节级评分，为每个音节的发音水平打分，快速提升口语水平。
+.. rubric:: “视觉口语训练引擎”(VOTE)从发音、语调、流利度、音量等多方面考量英语口语，音节级评分，为每个音素的发音水平打分，快速提升口语水平。
 
 .. contents:: :local:
 
@@ -35,9 +35,9 @@
 
 .. image:: /images/spoken-at-will-english-sent-score.png
 
-点击单词，进一步查看每个音节的得分:
+点击单词，进一步查看每个音素的得分:
 
-.. image:: /images/spoken-at-will-english-syllable-score.png
+.. image:: /images/spoken-at-will-english-phoneme-score.png
 
 在波形区原文上点击单词，强化练习单词:
 

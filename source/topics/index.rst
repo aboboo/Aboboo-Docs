@@ -10,4 +10,5 @@
    /topics/speaking
    /topics/mp3-player
    /topics/xue-xi-ji-lu
+   /topics/Dr.Pimsleur
 
