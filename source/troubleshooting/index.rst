@@ -8,6 +8,7 @@
 .. toctree::
    :maxdepth: 1
    
-   yong-hu-shu-ju-sun-huai
+   user-data-damaged
    yin-pin-dou-dong
    database-image-is-malformed
+   dictionary-phonetic-symbol-disappeared

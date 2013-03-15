@@ -2,6 +2,8 @@
 数据目录设置
 ================
 
+.. _preference-data-directory:
+
 :menuselection:`文件 --> 参数设置 --> 目录设置`
 
 .. image:: /images/preference-data-directory.png
