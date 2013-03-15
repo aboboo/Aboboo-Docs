@@ -134,6 +134,23 @@
 
 .. image:: /images/listen-bookmark-control.png
 
+.. _listen-wireless-mouse-remote-control:
+
+无线鼠标遥控复读
+================
+方便特殊场景遥控复读，如笔记本放在讲台上，教师拿着无线鼠标控制复读，或者笔记本留在书桌上，自己躺上床遥控复读。
+
+1. 鼠标移动到“鼠标控制区”
+2. :kbd:`Ctrl-左键` 锁定控制区，进入“遥控”
+3. 鼠标被锁定在控制区域内，不会超出区域，方便您操作:
+
+ * :kbd:`左键` 上一句 
+ * :kbd:`右键` 下一句 
+ * :kbd:`中键` 暂停/播放
+
+4. :kbd:`Ctrl-右键` 解除锁定，退出“遥控”
+
+.. image:: /images/listen-wireless-mouse-remote-control.png
 
 复读参数设置
 ============

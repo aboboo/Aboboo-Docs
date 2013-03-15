@@ -49,6 +49,7 @@
   :ref:`鼠标控 <listen-mouse-control>` |
   :ref:`进度条控 <listen-progress-bar-control>` |
   :ref:`书签控 <listen-bookmark-control>` |
+  :ref:`无线鼠摇控 <listen-wireless-mouse-remote-control>` |
   :doc:`全文复读方案 <ref/listen/workflow>`
 
 * **练口语:**
