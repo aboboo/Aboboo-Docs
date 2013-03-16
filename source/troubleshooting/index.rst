@@ -12,3 +12,4 @@
    yin-pin-dou-dong
    database-image-is-malformed
    dictionary-phonetic-symbol-disappeared
+   can-not-load-dll
