@@ -32,7 +32,7 @@
   :doc:`导出到便携设备 <ref/mp3/export>`
    
 * **电影:**
-  :ref:`支持的视频格式 <movie-support-format>` |
+  :ref:`支持的视频格式 <file-format-supported>` |
   :ref:`加载字幕 <movie-subtitle>` |
   :ref:`中英字幕分离器 <movie-subtitle-split>` |
   :ref:`实时字幕取词 <movie-subtitle-word-cupturing>`
@@ -82,7 +82,8 @@
 ..  :doc:`文本校对器 <ref/tools/wen-ben-jiao-dui-qi>`
 
 * **更多内容:**
-  :doc:`数据目录设置 <ref/preference-data-directory>` |
+  :doc:`管理播放列表 <ref/playlist>` |
+  :doc:`设置数据目录 <ref/preference-data-directory>` |
   :doc:`常见故障和解决办法 <troubleshooting/index>` |
   :doc:`常见问题 <faq>` |
   :doc:`如何做到... <howto/index>`

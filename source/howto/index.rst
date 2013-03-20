@@ -6,7 +6,7 @@
 .. toctree::
    :maxdepth: 1
 
-   hui-fu-ke-jian-nei-rong
+   discard-courseware-local-data
    tell-me-exactly-which-word-and-sound-i-am-having-trouble-with
    geng-huan-ke-jian-de-yin-pin
    resync-subtitle

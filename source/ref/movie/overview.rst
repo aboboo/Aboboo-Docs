@@ -6,7 +6,7 @@
 
 .. contents:: :local:
 
-.. _movie-support-format:
+.. _file-format-supported:
 
 Aboboo支持的音视频文件格式
 ===========================
