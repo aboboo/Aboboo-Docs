@@ -14,3 +14,4 @@
    dictionary-phonetic-symbol-disappeared
    can-not-load-dll
    part-of-page-is-printed-over-the-edge-of-a4-paper
+   problem-with-asian-characters-in-aboboo
