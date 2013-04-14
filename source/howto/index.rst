@@ -11,4 +11,5 @@
    geng-huan-ke-jian-de-yin-pin
    resync-subtitle
    export-content-from-courseware
-   playback-gain   
+   playback-gain
+   change-proxy-settings-in-internet-explorer
