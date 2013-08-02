@@ -79,3 +79,9 @@ Aboboo记录每次跟读录音，这些录音可以删除，可以导出。
 * 手动跟读：播放原音，然后停止，用户准备好以后，点击红色的录音按钮，软件播放录音准备提示后开始录音；
 * 疯狂跟读：播放原音，紧接着播放录音准备提示，紧接着开始录音。
 
+.. _spoken-at-will-interface-diagram:
+
+随意读面板
+============
+
+.. image:: /images/spoken-at-will-interface-diagram.jpg
