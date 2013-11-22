@@ -42,9 +42,9 @@
 
 幻灯模式下的键盘快捷键与课件播放时相同: 
 
-* 暂停: Tab / Ctrl+Alt+P
-* 下翻页: Page Down
-* 上翻页: Page Up
-* 下一张: ESC / Ctrl+Alt+Page Down (内置快捷键Page Down)
-* 上一张: ～ (ESC下方的键) / Ctrl+Alt+Page Up(内置快捷键Page Up)
+* 暂停: :kbd:`Tab` / :kbd:`Ctrl-Alt-P`
+* 下翻页: :kbd:`Page Down`
+* 上翻页: :kbd:`Page Up`
+* 下一张: :kbd:`ESC` / :kbd:`Ctrl-Alt-Page Down` (内置快捷键 :kbd:`Page Down` )
+* 上一张: :kbd:`～` ( :kbd:`ESC` 下方的键) / :kbd:`Ctrl-Alt-Page Up` (内置快捷键 :kbd:`Page Up` )
 

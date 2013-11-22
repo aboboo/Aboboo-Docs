@@ -19,38 +19,39 @@
     |         第二遍  60% 语速
     |         第三遍 120% 语速 
 
-  .. image:: /images/P1006.PNG
-    :width: 550px
+  .. image:: /images/workflow-create-new.png
+
 
 |
 
-* **第二步** 打开你要学习MP3文件，进入 **课件** -> **选中句子导出为音频文件** 。
+* **第二步** 打开你要学习的MP3文件，进入 **课件** ->  **导出音频** ->  **导出选中句子到音频文件** 。
 
-  .. image:: /images/P1005.PNG
+  .. image:: /images/selected-sents-export-to-mp3.png
+
 
 |
 
-* **第三步** 在弹出的对话框中点击 **合并为一个文件导出** 。 
+* **第三步** 在弹出的对话框中点击 **合并为一个文件** 。 
 
-  .. image:: /images/P1007.PNG
-    :width: 550px
+  .. image:: /images/export-to-mp3-merge-to-single-file.png
+
 
 |
 
 * **第四步** 在弹出的 **Aboboo音频合并器—将各种来源的音频一锅烩** 界面，设置每句的 **导出方案** ，有强大的右键菜单支持哦，而且还可以同时选择多个句子进行设置，真的很方便，这个界面也是非常强大的音频合并器。
 
-  .. image:: /images/P1008.PNG
-    :width: 550px
+  .. image:: /images/export-to-mp3-preference.png
+
 
 |
 
 * **第五步** 选择静音间隔，设置导出参数，不选不设，保持默认也行，点击 **开始** 按钮，选择保存路径。
 
-  .. image:: /images/P1009.PNG
-    :width: 550px
+  .. image:: /images/export-to-mp3-ok.png
 
 |
 | 一切OK啦！打开导出的这个MP3文件听听看吧！是不是变成复读机啦！
+|
 | 赶紧把它下载到你的MP3里面去吧！
 
 .. Hint::

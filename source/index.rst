@@ -3,7 +3,7 @@
 .. _index:
 
 =============================
-欢迎使用Aboboo 2.5 帮助文档
+欢迎使用Aboboo 2.7 帮助文档
 =============================
 
 .. rubric:: 阅读这份文档，了解Aboboo，学外语更高效。
@@ -34,7 +34,7 @@
 * **电影:**
   :ref:`支持的视频格式 <file-format-supported>` |
   :ref:`加载字幕 <movie-subtitle>` |
-  :ref:`中英字幕分离器 <movie-subtitle-split>` |
+  :ref:`中英字幕分离 <movie-subtitle-split>` |
   :ref:`实时字幕取词 <movie-subtitle-word-cupturing>`
   
 * **课件:**
@@ -75,18 +75,12 @@
 * **工具箱:**
   :doc:`单词发音训练 </ref/tools/vocabulary-training>`
 
-..  :doc:`音频合并器 <ref/tools/yin-pin-ti-qu-qi>` |
-..  :doc:`音频提取器 <ref/tools/yin-pin-he-bing-qi>` |
-..  :doc:`无限录音机 <ref/tools/wu-xian-lu-yin-ji>` |
-..  :doc:`静音剪除器 <ref/tools/jin-yin-jian-chu-qi>` |
-..  :doc:`文本校对器 <ref/tools/wen-ben-jiao-dui-qi>`
-
 * **更多内容:**
+  :doc:`如何做到... <howto/index>` |
   :doc:`管理播放列表 <ref/playlist>` |
   :doc:`设置数据目录 <ref/preference-data-directory>` |
   :doc:`常见故障和解决办法 <troubleshooting/index>` |
-  :doc:`常见问题 <faq>` |
-  :doc:`如何做到... <howto/index>`
+  :doc:`常见问题 <faq>`
 
 文档计划
 ================

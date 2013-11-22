@@ -9,7 +9,7 @@ Aboboo 是开放式工具，能够使用MP3学习。
 打开MP3文件
 ==============
 
-在 **文件** 界面，点击主菜单的文件按钮：
+在 **文件** 界面，点击播放列表顶部工具条的打开按钮：
 
 .. image:: /images/main-menu-file.png
 
@@ -18,8 +18,7 @@ Aboboo 是开放式工具，能够使用MP3学习。
 .. image:: /images/open-mp3-file.png
 
 .. Hint:: 
-  1. 如果当前不在 **文件** 界面，主菜单的文件按钮后，不会弹出对话框，而是转到 **文件** 界面，这时，再次点击文件按钮弹出对话框。
-  2. 批量添加MP3，请参看 :doc:`播放列表 </ref/playlist>` 。
+  批量添加MP3，请参看 :doc:`播放列表 </ref/playlist>` 。
 
 加载MP3后，立即开始播放。
 
@@ -37,7 +36,7 @@ Aboboo 是开放式工具，能够使用MP3学习。
 ===========
 Aboboo自动加载MP3文件所在目录下的同名LRC文件，LRC时间戳用作断点，文本用作音频的参照文本。
 
-  * 也可以手动加载字幕: :menuselection:`课件 --> 加载字幕`
+  * 也可以手动加载字幕: :menuselection:`课件 --> 字幕 --> 加载字幕`
 
   .. image:: /images/menu-load-subtitle.png
 
@@ -182,7 +181,7 @@ Aboboo自动加载MP3文件所在目录下的同名LRC文件，LRC时间戳用�
 
 .. image:: /images/sent-dictation-checking-on-the-fly.png
   
-* 按下 :kbd:`F1` 校对:
+* 按下 :kbd:`F1` 进入校对提示:
 
 .. image:: /images/sent-dictation-checking-window.png
 

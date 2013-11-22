@@ -26,7 +26,7 @@
   * 左: 用户面板/播放列表
   * 右: 主内容区/资源区
 
- .. image:: /images/main-screen.jpg
+ .. image:: /images/main-screen.png
 
 注册学习帐号
 ==================
@@ -44,7 +44,7 @@
   
   .. image:: /images/setup-auto-login.png
  
-* 领取每日积分奖励
+* 完成每日训练任务，领取积分奖励
   
   .. image:: /images/daily-bonus.png
 
