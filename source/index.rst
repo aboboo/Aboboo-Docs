@@ -81,7 +81,7 @@
   :doc:`设置数据目录 <ref/preference-data-directory>` |
   :doc:`常见故障和解决办法 <troubleshooting/index>` |
   :doc:`常见问题 <faq>`
-  :doc:`Mac用户请阅读 <howto/user-aboboo-on-mac>`
+  :doc:`Mac用户请阅读 <howto/use-aboboo-on-mac>`
 
 文档计划
 ================
