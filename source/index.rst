@@ -79,8 +79,8 @@
   :doc:`如何做到... <howto/index>` |
   :doc:`管理播放列表 <ref/playlist>` |
   :doc:`设置数据目录 <ref/preference-data-directory>` |
-  :doc:`常见故障和解决办法 <troubleshooting/index>` |
-  :doc:`常见问题 <faq>`
+  :doc:`常见故障 <troubleshooting/index>` |
+  :doc:`常见问题 <faq>` |
   :doc:`Mac用户请阅读 <howto/use-aboboo-on-mac>`
 
 文档计划
