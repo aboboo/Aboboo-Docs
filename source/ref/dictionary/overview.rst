@@ -95,6 +95,6 @@ sdp.dat(929 MB) 十五万真人语音例句
 * mall.dat(108 MB) 真人美音
 * ball.dat(151 MB) 真人英音
 
-  :menuselection:`文件 --> 参数设置 --> 单词发音 --> Aboboo自带语音库 --> 语音库优先选择`
+  :menuselection:`菜单 --> 参数设置 --> 单词发音 --> Aboboo自带语音库 --> 语音库优先选择`
 
   .. image:: /images/dictionary-choose-mall-or-ball.png

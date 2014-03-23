@@ -32,7 +32,7 @@
 
 .. _check-dictionary-data-files: 
 
-:menuselection:`文件 --> 参数设置 --> 目录设置 --> 应用程序数据目录 --> 检查字典完整性`
+:menuselection:`菜单 --> 参数设置 --> 目录设置 --> 应用程序数据目录 --> 检查字典完整性`
 
 .. image:: /images/check-dictionary-data-files.png
 
