@@ -92,6 +92,7 @@ html_theme = "sphinx_rtd_theme"
 # Add any paths that contain custom themes here, relative to this directory.
 #html_theme_path = []
 html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+#html_theme_path = ["_static", ]
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
@@ -139,7 +140,7 @@ html_static_path = ['_static']
 #html_split_index = False
 
 # If true, links to the reST sources are added to the pages.
-#html_show_sourcelink = True
+html_show_sourcelink = False 
 
 # If true, "Created using Sphinx" is shown in the HTML footer. Default is True.
 #html_show_sphinx = True
