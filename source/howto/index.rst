@@ -13,3 +13,5 @@
    export-content-from-courseware
    playback-gain
    change-proxy-settings-in-internet-explorer
+   synchronizing-between-pc-and-iphone
+   courseware-sharing
