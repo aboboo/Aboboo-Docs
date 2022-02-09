@@ -31,7 +31,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Aboboo-Docs'
-copyright = u'2007 - 2017, Aboboo Team'
+copyright = u'2007 - 2022, Aboboo Team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -157,7 +157,7 @@ html_show_sourcelink = False
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Aboboo-Docsdoc'
+htmlhelp_basename = 'Aboboo-Docs'
 
 
 # -- Options for LaTeX output --------------------------------------------------
