@@ -13,11 +13,30 @@
 * **首次运行:** 一分钟内完成初始化配置，为Aboboo准备运行环境，初始化用户数据，只在首次运行时出现。
   
   .. image:: /images/first-run.png
-  .. image:: /images/first-run-data-initialized-succeed.png
 
-* **启动画面:** 初始化完成后，请再次启动Aboboo。
+|
+
+* **启动画面:** 初始化完成后，显示登录界面，必须登录才能使用Aboboo。
 
   .. image:: /images/splash-screen.png
+
+注册学习帐号
+==================
+注册学习帐号，选择自动登录，保持在线使用的习惯，Aboboo综合每天的学习情况，奖励学习积分。如果没有条件保持在线，Aboboo也支持离线学习。
+
+* **注册账号:** 填写表单，注册账号。
+
+  .. image:: /images/signup-form.png
+
+.. tip:: 完成邮箱认证后，可获得500积分奖励。
+
+|
+
+* **登录系统:** 记住密码，自动登录。
+
+  .. image:: /images/setup-auto-login.png
+ 
+|
 
 * **主界面:** 启动后进入主界面，主界面大致分成四部分：
 
@@ -28,26 +47,13 @@
 
  .. image:: /images/main-screen.png
 
-注册学习帐号
+
+完成学习任务
 ==================
-注册学习帐号，选择自动登录，保持在线使用的习惯，Aboboo综合每天的学习情况，奖励学习积分。如果没有条件保持在线，Aboboo也支持离线学习。
 
-* 注册学习帐号
- 
-  .. image:: /images/click-signup.png
- 
-* 填写表单，完成注册
-  
-  .. image:: /images/signup-form.png
-
-* 选择自动登录
-  
-  .. image:: /images/setup-auto-login.png
- 
-* 完成每日训练任务，领取积分奖励
+完成每日训练任务，领取积分奖励。
   
   .. image:: /images/daily-bonus.png
 
-.. tip:: 完成邮箱认证后，可获得500积分奖励。
 
 :doc:`第二部分：打开文件 <courseware>`
