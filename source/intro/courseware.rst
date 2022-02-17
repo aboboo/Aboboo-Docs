@@ -8,8 +8,33 @@
 
 .. image:: /images/open-demo01.png
 
-Aboboo进入 **正在学习** 状态。
+|
 
-.. image:: /images/play-courseware.png
+**卡片课件**
+
+.. image:: /images/play-courseware-card.png
+
+|
+
+**全文课件**
+
+.. image:: /images/play-courseware-article.png
+
+|
+
+**点读课件** ： 按句播放。
+
+.. image:: /images/play-courseware-reading-by-sentence.png
+
+
+|
+
+**点读课件** ：按页播放。
+
+.. image:: /images/play-courseware-reading-by-page.png
+
+
+.. video:: ../_static/what-is-this.mp4
+   :width: 696
 
 :doc:`第三部分：复读功能的基本操作 <listening>`
