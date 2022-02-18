@@ -90,6 +90,8 @@
   .. image:: /images/volumn-control.png
     :align: center
 
+    启用音量增益，将不同音量的音频文件调整为标准音量。
+
 * 鼠标悬停后出现音量滑块，增大音量到100%后，可点击按钮继续增加音量，也可以按住 :kbd:`Control-Alt-Up` 继续增大音量到2000%。
 
 
