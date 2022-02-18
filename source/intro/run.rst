@@ -4,21 +4,28 @@
 
 * **安装版:** 运行桌面快捷方式 
 
-  .. image:: /images/run-shortcut.png
+  .. figure:: /images/run-shortcut.png
+    :align: center
 
 * **便携版:** 运行 **aboboo.exe**  
   
-  .. image:: /images/run-program.png
+  .. figure:: /images/run-program.png
+    :align: center
 
 * **首次运行:** 一分钟内完成初始化配置，为Aboboo准备运行环境，初始化用户数据，只在首次运行时出现。
   
-  .. image:: /images/first-run.png
+  .. figure:: /images/first-run.png
+    :align: center
 
+    首次运行
 |
 
 * **启动画面:** 初始化完成后，显示登录界面，必须登录才能使用Aboboo。
 
-  .. image:: /images/splash-screen.png
+  .. figure:: /images/splash-screen.png
+    :align: center
+
+    启动画面
 
 注册学习帐号
 ==================
@@ -26,7 +33,10 @@
 
 * **注册账号:** 填写表单，注册账号。
 
-  .. image:: /images/signup-form.png
+  .. figure:: /images/signup-form.png
+    :align: center
+
+    注册界面
 
 .. tip:: 完成邮箱认证后，可获得500积分奖励。
 
@@ -34,8 +44,11 @@
 
 * **登录系统:** 记住密码，自动登录。
 
-  .. image:: /images/setup-auto-login.png
- 
+  .. figure:: /images/setup-auto-login.png
+    :align: center
+
+    登录界面
+
 |
 
 * **主界面:** 启动后进入主界面，主界面大致分成四部分：
@@ -45,7 +58,10 @@
   * 左: 用户面板/播放列表
   * 右: 主内容区/资源区
 
- .. image:: /images/main-screen.png
+  .. figure:: /images/main-screen.png
+    :align: center
+
+    主界面
 
 
 完成学习任务
@@ -53,7 +69,10 @@
 
 完成每日训练任务，领取积分奖励。
   
-  .. image:: /images/daily-bonus.png
+  .. figure:: /images/daily-bonus.png
+    :align: center
+
+    学习积分奖励
 
 
 :doc:`第二部分：打开文件 <courseware>`

@@ -6,33 +6,43 @@
 
 打开音箱或戴上耳机，在 :doc:`播放列表 </ref/playlist>` 中点击课件的播放按钮:
 
-.. image:: /images/open-demo01.png
+.. figure:: /images/open-demo01.png
+   :align: center
 
+   播放课件
 |
 
 **卡片课件**
 
-.. image:: /images/play-courseware-card.png
+.. figure:: /images/play-courseware-card.png
+   :align: center
 
+   卡片课件
 |
 
 **全文课件**
 
-.. image:: /images/play-courseware-article.png
+.. figure:: /images/play-courseware-article.png
+   :align: center
 
+   全文课件
 |
 
 **点读课件** ： 按句播放。
 
-.. image:: /images/play-courseware-reading-by-sentence.png
+.. figure:: /images/play-courseware-reading-by-sentence.png
+   :align: center
 
+   点读课件
 
 |
 
 **点读课件** ：按页播放。
 
-.. image:: /images/play-courseware-reading-by-page.png
+.. figure:: /images/play-courseware-reading-by-page.png
+   :align: center
 
+   点读课件
 
 .. video:: ../_static/what-is-this.mp4
    :width: 696

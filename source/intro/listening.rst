@@ -2,76 +2,110 @@
 必须掌握的基本操作
 ================================
 
-.. image:: /images/main-screen-overview.png
+.. figure:: /images/main-screen-overview.png
+  :align: center
+
+  课件播放界面
 
 ① 主波面板，选择复读区间
 +++++++++++++++++++++++++++++++++++++++++++
 
   * 正在复读第1句
 
-  .. image:: /images/main-wave-click-a.png
+  .. figure:: /images/main-wave-click-a.png
+    :align: center
+
+    当前复读区间
 
   * 左键点击第3句，该句被选为复读区间
 
-  .. image:: /images/main-wave-click-b.png
+  .. figure:: /images/main-wave-click-b.png
+    :align: center
+
+    点选主波改变复读区间
   
 ② 次波面板，微调复读区间
 +++++++++++++++++++++++++++++++++++++++++++
 
   * 正在复读第3句
 
-  .. image:: /images/sub-wave-click-a.png
+  .. figure:: /images/sub-wave-click-a.png
+    :align: center
+
+    当前复读区间
 
   * 左键定义起点
 
-  .. image:: /images/sub-wave-click-b.png
+  .. figure:: /images/sub-wave-click-b.png
+    :align: center
+
+    左键改变复读区间起点
 
   * 右键定义终点
 
-  .. image:: /images/sub-wave-click-c.png
+  .. figure:: /images/sub-wave-click-c.png
+    :align: center
+
+    右键改变复读区间终点
 
 ③ 全文点读，点击复读句子
 +++++++++++++++++++++++++++++++++++++++++++
 
-  .. image:: /images/click-text-to-listen.png
- 
+  .. figure:: /images/click-text-to-listen.png
+     :align: center
+
+     点读句子
+
 ④ 进度条，改变复读区间
 +++++++++++++++++++++++++++++++++++++++++++
 
-  .. image:: /images/progress-bar-control.png
+  .. figure:: /images/progress-bar-control.png
+    :align: center
+
+    进度条快速改变复读区间
+
   
 ⑤ 调整循环次数
 +++++++++++++++++++++++++++++++++++++++++++
 
-  .. image:: /images/select-cycle-times.png
+  .. figure:: /images/select-cycle-times.png
     :align: center
+
+    循环次数
 
 ⑥ 调整暂停时间
 +++++++++++++++++++++++++++++++++++++++++++
 
-  .. image:: /images/select-pause-time.png
+  .. figure:: /images/select-pause-time.png
     :align: center
+
+    暂停时间
 
 ⑦ 调整播放速度
 +++++++++++++++++++++++++++++++++++++++++++
 
-  .. image:: /images/speed-control.png
+  .. figure:: /images/speed-control.png
     :align: center
 
+    播放速度
 
 ⑧ 切换复读方式
 +++++++++++++++++++++++++++++++++++++++++++
 
   * 按下 :kbd:`Alt-F` ，切换到 **一键式**，系统自动调节复读次数为“永远”，自动调节读后暂停为“无”。
 
-  .. image:: /images/select-repeat-mode-one-key.png
+  .. figure:: /images/select-repeat-mode-one-key.png
     :align: center
 
+    复读方式
 |
 
   * 在主波面板上，按住鼠标左键，拖选复读区间（左键点击任意位置解除复读区间）。
 
-  .. image:: /images/repeat-mode-one-key.png
+  .. figure:: /images/repeat-mode-one-key.png
+    :align: center
+
+    拖选复读区间
 
 
 ⑨ 面板控制：
@@ -81,13 +115,15 @@
 
   * 原文被隐藏后
 
-  .. image:: /images/article-mode-text-display-off.png
-  
+  .. figure:: /images/article-mode-text-display-off.png
+    :align: center
+
+    原文隐藏
 
 ⑩ 音量控制区，控制音量大小
 +++++++++++++++++++++++++++++++++++++++++++
 
-  .. image:: /images/volumn-control.png
+  .. figure:: /images/volumn-control.png
     :align: center
 
     启用音量增益，将不同音量的音频文件调整为标准音量。
@@ -100,20 +136,27 @@
 
   * 句子模式
 
-  .. image:: /images/sent-list-mode.png
+  .. figure:: /images/sent-list-mode.png
+    :align: center
 
+    句子模式
 |
 
   * 单句模式
 
-  .. image:: /images/single-sent-mode.png
+  .. figure:: /images/single-sent-mode.png
+    :align: center
+
+    单句模式
 
 |
 
   * 模板模式（VIP），多套模板可供选择
 
-  .. image:: /images/vip-template-mode.png
+  .. figure:: /images/vip-template-mode.png
+    :align: center
 
+    模板模式（VIP）
 
 ⑫ 选择训练方式
 +++++++++++++++++++++++++++++++++++++++++++
@@ -121,7 +164,10 @@
 
 * 抠词听写、单句听写、自由听写、随意读、全文读、造句练习
 
-  .. image:: /images/learning-menu.png
+  .. figure:: /images/learning-menu.png
+    :align: center
+
+    训练方式
   
 
 您已经了解Aboboo的基本操作，现在开始学习！ 或者返回 :ref:`文档页面 <index>` 进一步阅读。
