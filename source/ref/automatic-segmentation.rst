@@ -2,14 +2,19 @@
 智能断句
 ========
 
-.. rubric:: 第一次打开MP3/电影，Aboboo自动完成断句，如果对断句结果不满意，可以“智能断句”重新调整断句。
+.. rubric:: 首次打开MP3/电影，Aboboo会自动断句。
+  
+如果对断句结果不满意，可以使用“智能断句”重新调整断句。
 
 .. contents:: :local:
 
 智能断句
-========
+===============
 
-.. image:: /images/automatic-segmentation-window.png
+.. figure:: /images/automatic-segmentation-window.png
+  :align: center
+
+  智能断句
 
 **参数值的选择直接左右断句结果是否准确**，不同的音频需要不同的参数，甚至一个音频的多个片段都需要不同的断句参数。
 
@@ -88,7 +93,10 @@
 参数设置方案
 ============
 
-.. image:: /images/automatic-segmentation-prefer.png
+.. figure:: /images/automatic-segmentation-prefer.png
+  :align: center
+
+  断句参数设置方案
 
 Aboboo默认提供了八种断句方案。
 
