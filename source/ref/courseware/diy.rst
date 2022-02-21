@@ -5,12 +5,12 @@
 
 准备
 ****
-先准备原料，MP3/WAV文件，Q99课件都可以直接使用，视频音轨可事前借助Aboboo音频提取器导出成MP3/WAV。
+先准备原料，MP3/WAV文件，Q99课件都可以直接使用，视频音轨可以直接使用Aboboo音频提取器导出成MP3/WAV，再使用导出的MP3/WAV制作课件。
 
 * 如果MP3有高质量的LRC字幕，也能用上：
 
     1. 打开MP3。
-    2. **课件** -> **字幕** -> **加载字幕** ，加载LRC。
+    2. **操作** -> **字幕** -> **加载字幕** ，加载LRC。
     3. **课件编辑** -> **第一步：打开音频文件** -> **3 编辑正在学习的文件** 。
 
 * 编辑已有课件必须首先获得课件授权。即使是你自己制作的课件，上传服务器并通过审核后，再次编辑也必须先获得授权（作者获得授权免积分）。
@@ -19,41 +19,53 @@
 进入向导
 ********
 
-点击顶部工具栏的 **课件编辑**
+点击顶部工具栏的 **工具** 进入工具界面，点击 **课件编辑** 。
 
-    .. image:: /images/courseware-editor/menu-courseware-editor.png
+    .. figure:: /images/courseware-editor/menu-courseware-editor.png
+      :align: center
+
+      工具箱
 
 进入 **Aboboo 课件DIY** 向导，制作课件的五个步骤在左侧的向导树上，绿色亮块是当前所在步骤：
 
-    .. image:: /images/courseware-editor/welcome.png
+    .. figure:: /images/courseware-editor/welcome.png
+      :align: center
+
+      课件编辑器
 
 第一步：打开文件
 ****************
 
 选择 **1 打开MP3/WAV文件制作课件** ，在弹出对话框中找到音频文件，打开文件。
 
-    .. image:: /images/courseware-editor/step-1-choice-1.png
+    .. figure:: /images/courseware-editor/step-1-choice-1.png
+      :align: center
 
 选择 **2 编辑Q99课件文件** ，在弹出对话框中找到Q99课件，打开文件。
 
-    .. image:: /images/courseware-editor/step-1-choice-2.png
+    .. figure:: /images/courseware-editor/step-1-choice-2.png
+      :align: center
 
 选择 **3 编辑正在学习的文件** ，直接编辑当前文件。
 
-    .. image:: /images/courseware-editor/step-1-choice-3.png
+    .. figure:: /images/courseware-editor/step-1-choice-3.png
+      :align: center
 
 第二步：编辑课件内容（句子）
 ****************************
 
 这一步简单说就是调整断句，编辑每一句的文本内容。编辑界面分上中下三部分：
 
-    .. image:: /images/courseware-editor/step-2.png
+    .. figure:: /images/courseware-editor/step-2.png
+      :align: center
 
-**上** ：波形面板，用来做音频编辑，比如添加断点，合并上下句等。
+      编辑课件内容（句子）
 
-**中** ：文本编辑器，用来编辑句子原文和译文，文本编辑器顶部有菜单栏。
+**①** 波形面板：编辑音频，添加断点，合并上下句等。
 
-**下** ：句子属性页，用来编辑注释、读音标记、对话角色、是否选中播放等与句子相关的属性。
+**②** 文本编辑器：编辑句子原文和译文，更多功能在上侧菜单栏中。
+
+**③** 句子属性页：编辑注释、读音标记、对话角色、是否选中播放等与句子相关的属性。
 
 
 重新采样（新手跳过）
@@ -63,7 +75,10 @@
 
 第一次打开MP3，软件会自动采样。只有当你需要调整波形图长度的时候，才需要重新采样。点击图标，选择 **音频采样** ：
 
-    .. image:: /images/courseware-editor/sample-audio.png
+    .. figure:: /images/courseware-editor/sample-audio.png
+      :align: center
+
+      课件编辑器 音频采样
 
 弹出 **音频数据采样** 窗口，选择波形长度，完成采样。
 
@@ -77,11 +92,17 @@
 
 点击图标，选择 **智能断句** ：
 
-    .. image:: /images/courseware-editor/automatic-segmentation.png
+    .. figure:: /images/courseware-editor/automatic-segmentation.png
+      :align: center
+
+      课件编辑器 智能断句
 
 弹出 **智能断句** 界面，请选择断句方案或微调断句参数，完成断句。请参看 :doc:`智能断句 </ref/automatic-segmentation>` 。
 
-    .. image:: /images/automatic-segmentation-window.png
+    .. figure:: /images/automatic-segmentation-window.png
+      :align: center
+
+      智能断句
 
 
 剔除静音（新手跳过）
