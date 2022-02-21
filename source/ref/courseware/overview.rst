@@ -11,13 +11,16 @@
 体验示范课件
 =============
 
-软件包附赠了示范课件，马上体验一下 Demo01.q99 吧！
+软件包附赠了示范课件，马上体验一下吧！
 
 打开音箱或戴上耳机，在 :doc:`播放列表 </ref/playlist>` 中双击该文件，开始播放课件并自动进入 **正在学习** 状态。
 
 您会观察到波形图中几个形状不一的东西以快慢不等的速度从左往右移动，请用鼠标在波形图上点几下试试，这就是“ **波形复读** ”，挺方便的吧？
 
-.. image:: /images/play-courseware.png
+.. figure:: /images/play-courseware-card.png
+  :align: center
+
+  波形复读
 
 .. _courseware-download:
 
@@ -33,11 +36,18 @@ Aboboo只提供软件工具和网络服务，不提供课件资源，所有课�
 =============
 在使用课件时，如果你看到这个提示：
 
-  .. image:: /images/courseware-authorize-confirm.png
+  .. figure:: /images/courseware-authorize-confirm.png
+    :align: center
+
+    无授权提示
+
 
 请点击 **是(Y)** 立即前往获取课件授权，以继续使用课件相关功能。
 
-  .. image:: /images/courseware-authorize-preference.png
+  .. figure:: /images/courseware-authorize-preference.png
+    :align: center
+    
+    申请授权
 
 选择要授权的天数（积分兑换），获得授权后，可以在授权范围内，自由地使用课件。
 
@@ -59,4 +69,4 @@ Aboboo只提供软件工具和网络服务，不提供课件资源，所有课�
 
 自制课件
 ================
-自己动手做课件也很有趣，请参考 :doc:`课件制作 <diy>` 
+自己动手做课件也很有趣，请参考 :doc:`课件制作 <diy>` 。
