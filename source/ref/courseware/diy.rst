@@ -112,11 +112,13 @@
 
 如果音频静音很多，可以剔除句首和句尾的静音，点击图标:
 
-    .. image:: /images/courseware-editor/remove-silence-from-segmentation.png
+    .. figure:: /images/courseware-editor/remove-silence-from-segmentation.gif
+      :align: center
+
+      剔除静音
 
 用鼠标拖动滑块，仔细观察波形面板，所有的句子起点和终点均会相应变化。
 
-    .. image:: /images/courseware-editor/adjust-silence.png
 
 调整断句
 ========
@@ -146,7 +148,7 @@
 
 **这项基础工作极为重要！** 必须逐句核对句子音频和句子文本，不匹配时，或调整断点，或调整文本，直到完全匹配。
 
-**合理的断句＋相匹配的原文** 是后期编辑工作的基础，断句不理想或原文有错误会在造成返工，费水费电费气，不低碳不环保。
+**合理的断句＋相匹配的原文** 是后期编辑工作的基础，断句不理想或原文有错误会在造成返工。
 
 
 编辑译文
@@ -154,16 +156,27 @@
 
 在 **模式** 菜单中，选择 **译文为主导** ，通过剪贴板粘贴译文到编辑器中，批量编辑译文，然后逐句核对音频和译文。
 
+  .. figure:: /images/courseware-editor/show-sentence-in-translation.png
+    :align: center
+
+    译文为主导
+
 **原文为主导** 模式下，允许在属性页上编辑译文。 **译文为主导** 模式下，允许在属性页上编辑原文。
 
-编辑注释
+
+
+编辑备注
 ========
 
 除了原文和译文，还有一些与句子相关的内容，如语法结构，词组搭配，单词用法，背景知识等，这些都是对学习很有帮助内容，适合放在句子的注释中。
 
-在句子属性页中选择 **注释** ，注释编辑器左侧标注行号，顶部菜单栏提供了一些常用功能：
+在句子属性页中选择 **备注** ，备注编辑器的顶部菜单栏提供了一些常用功能：
 
-    .. image:: /images/courseware-editor/edit-notes.png
+  .. figure:: /images/courseware-editor/edit-notes.png
+    :align: center
+
+    编辑备注
+
 
 编辑对话角色（非对话类课件跳过）
 ================================
@@ -174,7 +187,10 @@
 
 在句子属性页中选择 **对话角色** ：
 
-    .. image:: /images/courseware-editor/edit-characters.png
+  .. figure:: /images/courseware-editor/edit-characters.png
+    :align: center
+
+    编辑对话角色
 
 手工录入角色，直接在文本框中键入角色名称，或者下拉框中选择已经存在的角色名称。
 
@@ -188,8 +204,10 @@
 
 * 点选 **对话角色** 页 **编辑** 菜单中的 **全自动处理角色** ，完成角色剥离。
 
-    .. image:: /images/courseware-editor/recognize-characters.png
+   .. figure:: /images/courseware-editor/recognize-characters.png
+    :align: center
 
+    自动剥离角色
 
 * 剥离前
 
@@ -264,11 +282,17 @@
 
     点击 **地图＋笔** 图标。
 
-        .. image:: /images/courseware-editor/toolbar-open-template.png
+        .. figure:: /images/courseware-editor/toolbar-open-template.png
+          :align: center
+
+          通过Aboboo服务器渲染课件
 
     在弹出的窗口中选择模板，通过服务器渲染课件。
 
-        .. image:: /images/courseware-editor/window-select-template.png
+        .. figure:: /images/courseware-editor/window-select-template.png
+          :align: center
+          
+          选择全文渲染模板
 
         你可以试试不同的模板多次渲染，对结果基本满意后再继续编辑。只有对话类模板能够渲染对话角色。
 
@@ -279,15 +303,19 @@
 
     勾选 **在原文中用强调色标记这些单词** 可以在原文中渲染这些单词，每个单词最多渲染一次。
 
-        .. image:: /images/courseware-editor/append-vocabulary.png
+        .. figure:: /images/courseware-editor/append-vocabulary.png
+          :align: center
 
+          在原文中用强调色标记单词
 
 * 修改标题
 
     按照模板要求，把 **在这里填写...** 等内容修改为课件的相应内容。
 
-        .. image:: /images/courseware-editor/edit-title-introduce-etc.png
+        .. figure:: /images/courseware-editor/edit-title-introduce-etc.png
+          :align: center
 
+          修改标题
 
 * 美化内容
 
@@ -299,23 +327,38 @@
 
     * 页面设置
 
-        .. image:: /images/courseware-editor/option-page.png
+        .. figure:: /images/courseware-editor/option-page.png
+          :align: center
+
+          页面设置
 
     * 边框和背景
 
-        .. image:: /images/courseware-editor/option-border-background.png
+        .. figure:: /images/courseware-editor/option-border-background.png
+          :align: center
+
+          边框和背景
 
     * 字体设置
 
-        .. image:: /images/courseware-editor/option-font.png
+        .. figure:: /images/courseware-editor/option-font.png
+          :align: center
+
+          字体设置
 
     * 段落设置
 
-        .. image:: /images/courseware-editor/option-paragrapha.png
+        .. figure:: /images/courseware-editor/option-paragrapha.png
+          :align: center
+
+          段落设置
 
     * 插入图片
 
-        .. image:: /images/courseware-editor/insert-image.png
+        .. figure:: /images/courseware-editor/insert-image.png
+          :align: center
+
+          插入图片
 
     * 批量绑定图片
 
@@ -363,7 +406,17 @@
 
     只有句子原文和译文可以自动绑定，注释等内容不能自动绑定。
 
-        .. image:: /images/courseware-editor/menu-auto-bind.png
+        .. figure:: /images/courseware-editor/menu-auto-bind.png
+          :align: center
+
+          自动绑定
+
+|
+
+        .. figure:: /images/courseware-editor/menu-auto-bind.gif
+          :align: center
+
+          从网页复制内容并粘贴到Aboboo时使用自动绑定
 
 
 * 手动绑定
@@ -372,20 +425,28 @@
 
     手工绑定的操作步骤：
 
-    1. 首先，在句子列表中 **单击** 未绑定的句子（复选框未勾选表示未绑定的状态），已绑定的原文或译文不能再次绑定。
+    1. 首先，在句子列表中 **单击** 未绑定的句子（❔表示未绑定的状态），已绑定的原文或译文不能再次绑定。
 
-        .. image:: /images/courseware-editor/manual-bind-step-1.png
+        .. figure:: /images/courseware-editor/manual-bind-step-1.png
+          :align: center
 
-        .. hint:: 
-            这里的复选框无法点击，只要 **单击** 句子就是选中。
+          从网页复制内容并粘贴到Aboboo时使用自动绑定
+
+
 
     2. 然后，在全文编辑器中涂黑（选中）要绑定的文本后单击右键弹出菜单，选择 **本句绑定到原文** 或 **本句绑定到译文** 。
 
-        .. image:: /images/courseware-editor/manual-bind-step-2.png
+        .. figure:: /images/courseware-editor/manual-bind-step-2.png
+          :align: center
 
+          手动绑定到原文
+
+|
         如果找不到 **本句绑定到原文** 或者 **本句绑定到译文** ，是因为你在句子列表中单击的是已绑定原文或译文的句子。
 
         如果原文和译文都已经绑定过，这两项菜单不会出现。
+
+        .. hint:: 也可以直接点击➕图标在当前光标处插入句子原文。
 
 
 * 解除绑定
@@ -409,7 +470,10 @@
 编辑课件属性
 ============
 
-    .. image:: /images/courseware-editor/edit-properties.png
+    .. figure:: /images/courseware-editor/edit-properties.png
+      :align: center
+
+      编辑课件属性
 
     请认真填写课件属性！
 
@@ -430,15 +494,25 @@
 
   * 如果修改了课件属性，点击 **更新课件属性** 来保存修改：
 
-      .. image:: /images/courseware-editor/step-4-update-properties.png
+      .. figure:: /images/courseware-editor/step-4-update-properties.png
+        :align: center
+
+        更新课件属性
 
   * 如果修改了课件内容，点击 **另存为** 来保存修改，一般保存到 **默认方案** ，当然也可以保存为新方案或者已有的其他方案。
 
-      .. image:: /images/courseware-editor/step-4-save-as.png
+      .. figure:: /images/courseware-editor/step-4-save-as.png
+        :align: center
+
+        保存到默认方案
+
 
   * 如果已有多个方案，界面上会出现 **删除方案** 按钮，允许删除默认方案以外的其他方案。
 
-      .. image:: /images/courseware-editor/step-4-delete-program.png
+      .. figure:: /images/courseware-editor/step-4-delete-program.png
+        :align: center
+
+        删除方案
 
 下一步
 ======
@@ -448,19 +522,40 @@
 第五步：上传课件
 ****************
 
+上传到私有空间（VIP）
+======================
+
+  .. figure:: /images/courseware-editor/step-5-choice-1.png
+    :align: center
+
+    上传到私有空间（VIP）
+
+上传到您的Aboboo云空间成为私有云课件。该类课件不强制要求全文模式，也不需要官方审核。
+
+正确绑定了原文的英文类课件将由服务器生成跟读评分数据，您可以在PC端 **本地** **云端私有课件** 下载学习，手机端可以点击 **首页** **私有课件** 下载学习。
+
+私有课件只有本人才能打开学习或编辑。
+
+
 分享吗？奖励积分
 ================
 
-  .. image:: /images/courseware-editor/step-5-choice-1.png
+  .. figure:: /images/courseware-editor/step-5-choice-2.png
+    :align: center
+
+    让更多人使用这个课件
 
 你上传的优质课件通过审核后，能获取积分，被别人下载，也有积分。
 
-做做课件吧！把你手头的资料做成课件！造福他人也造福自己。
+把你手头的资料做成课件！造福他人也造福自己。
 
 不上传？也可以用
 ================
 
-  .. image:: /images/courseware-editor/step-5-choice-2.png
+  .. figure:: /images/courseware-editor/step-5-choice-3.png
+    :align: center
+
+    本地私人使用
 
 不上传或上传后未通过审核的课件无法使用部分功能（某些功能需要从服务端灌入数据），如果确实不需要这部分功能，可以选择不上传。
 
