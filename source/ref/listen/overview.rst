@@ -32,7 +32,10 @@
 
 标记式复读时，有些音频含有固定的片头、片尾、音乐、现场采访等，这些内容不用逐句复读，事前用 **句子选择器** 去掉：
 
-    .. image:: /images/topics/sentence-selector.png
+    .. figure:: /images/topics/sentence-selector.png
+      :align: center
+
+      句子选择器
 
 
 朗读遍数设置成多少合适？
@@ -116,7 +119,11 @@
 
 用进度条定义复读区间，类似普通播放器的AB段选择：
 
-  .. image:: /images/topics/listen-progress-bar-control.png
+  .. figure:: /images/topics/listen-progress-bar-control.png
+    :align: center
+
+    一键式 🖱右键 拖选复读区间
+
 
 * 切换到一键式或两键式
 * 鼠标右键拖选复读区间
@@ -131,11 +138,15 @@
 
 播放时，可随时用“书签”标记某个复读区间，也可以随时播放已定义的书签。 
 
-:kbd:`Ctrl-Shift-数字键(0~9)` 定义/删除书签
+⌨ :kbd:`Ctrl-Shift-数字键(0~9)` 定义/删除书签
 
-:kbd:`Ctrl-数字键` 播放已定义的书签
+⌨ :kbd:`Ctrl-数字键` 播放已定义的书签
 
-.. image:: /images/topics/listen-bookmark-control.png
+.. figure:: /images/topics/listen-bookmark-control.png
+  :align: center
+
+  ⌨ Ctrl + Shift + 0..9 定义书签 / ⌨ Ctrl + 0..9 播放书签
+
 
 .. _listen-wireless-mouse-remote-control:
 
@@ -153,12 +164,17 @@
 
 4. :kbd:`Ctrl-右键` 解除锁定，退出“遥控”
 
-.. image:: /images/topics/listen-wireless-mouse-remote-control.png
+.. figure:: /images/topics/listen-wireless-mouse-remote-control.png
+  :align: center
+
+  🖱 移动到“鼠标控制区” Ctrl-左键 锁定控制区
 
 复读参数设置
 ============
 
-:menuselection:`菜单 --> 参数设置 --> 复读参数`
+:menuselection:`参数设置 --> 复读参数`
 
-.. image:: /images/topics/preference-repeat.png
+.. figure:: /images/topics/preference-repeat.png
+  :align: center
 
+  复读参数设置

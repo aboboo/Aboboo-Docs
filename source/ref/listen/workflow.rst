@@ -23,26 +23,42 @@
 
 * 简单模式：仅播放一遍，所有播放参数使用默认值（用户通过播放工具条设置的值）
 
-   .. image:: /images/workflow-predefined-simple.png
+   .. figure:: /images/workflow-predefined-simple.png
+     :align: center
+
+     简单模式
 
 * 听力练习模式：音量用默认值，其它参数恒定。
 
-   .. image:: /images/workflow-predefined-listen.png
+   .. figure:: /images/workflow-predefined-listen.png
+     :align: center
+
+     听力练习模式
 
 * 口语练习模式：音量用默认值，其它参数恒定。
 
-   .. image:: /images/workflow-predefined-oral.png
+   .. figure:: /images/workflow-predefined-oral.png
+     :align: center
+
+     口语练习模式
 
 添加自定义方案
 ********************
 
 * 点击设置图标
 
-  .. image:: /images/menu-workflow-setup-or-select.png
+  .. figure:: /images/menu-workflow-setup-or-select.png
+     :align: center
+
+     点击设置图标
 
 * 添加方案
 
-  .. image:: /images/workflow-create-new.png
+  .. figure:: /images/workflow-create-new.png
+     :align: center
+
+     添加方案
+
 
   定义每一遍的播放属性:
 
@@ -62,11 +78,17 @@
   
   * 点击选择图标
 
-  .. image:: /images/menu-workflow-setup-or-select.png
+  .. figure:: /images/menu-workflow-setup-or-select.png
+     :align: center
+
+     点击选择图标
   
   * 选择方案
 
-  .. image:: /images/workflow-select.png
+  .. figure:: /images/workflow-select.png
+     :align: center
+
+     选择全文复读方案
 
 
 究竟循环多少次？
