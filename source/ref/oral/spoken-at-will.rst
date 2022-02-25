@@ -18,59 +18,95 @@
 ========================
 不仅能练习汉语普通话，也能练习德语、法语、西班牙语、意大利语、葡萄牙语、俄语、泰语、韩语、阿拉伯语、日语、斯瓦希里语等，练歌都行。
 
-.. image:: /images/spoken-at-will-mandarin.png
+.. figure:: /images/spoken-at-will-mandarin.png
+  :align: center
+
+  练习汉语普通话
+
 
 练习电影人物对话
 ========================
 反复模仿电影对话，入戏深，效果好。
 
-.. image:: /images/spoken-at-will-movie.png
+.. figure:: /images/spoken-at-will-movie.png
+  :align: center
+
+  练习电影人物对话
+
 
 练习英语口语
 ========================
 
-.. image:: /images/spoken-at-will-english.png
+.. figure:: /images/spoken-at-will-english.png
+  :align: center
+
+  练习英语口语
 
 得分较低的单词以红色下标显示得分:
 
-.. image:: /images/spoken-at-will-english-sent-score.png
+.. figure:: /images/spoken-at-will-english-sent-score.png
+  :align: center
+
+  颜色区分得分较低的单词
+  
 
 点击单词，进一步查看每个音素的得分:
 
-.. image:: /images/spoken-at-will-english-phoneme-score.png
+.. figure:: /images/spoken-at-will-english-phoneme-score.png
+  :align: center
+
+  音素得分
+
 
 在波形区原文上点击单词，强化练习单词:
 
-.. image:: /images/spoken-at-will-click-word-a.png
+.. figure:: /images/spoken-at-will-click-word-a.png
+  :align: center
+
+  强化练习单词    
 
 完成单词练习后返回句子:
 
-.. image:: /images/spoken-at-will-click-word-b.png
+.. figure:: /images/spoken-at-will-click-word-b.png
+  :align: center
+
+  返回句子跟读
 
 
 .. _spoken-at-will-kid-mode:
 
-启用儿童模式
+
+选择评分标准
 ========================
 
-.. versionadded:: 2.5.2
+儿童练习英语口语，面对严格评分，容易失去兴趣，可通过 :menuselection:`随意读面板 --> 评分标准 -->宽松` 进入宽松评分模式:
 
-儿童练习英语口语，面对严格评分，容易失去兴趣，可通过 :menuselection:`随意读面板菜单 --> 评分纠错 --> 启用儿童模式（评分较为宽松）` 进入儿童评分模式:
+.. figure:: /images/menu-spoken-at-will-kid-mode.png
+  :align: center
 
-.. image:: /images/menu-spoken-at-will-kid-mode.png
+  选择评分标准
 
-启用儿童模式后，口语得分显著提高，评分面板也有相应显示:
+宽松评分模式下，口语得分显著提高，评分面板也有相应显示:
 
-.. image:: /images/spoken-at-will-english-sent-score-kid-mode.png
+.. figure:: /images/spoken-at-will-english-sent-score-kid-mode.png
+  :align: center
 
+  宽松/幼儿模式
+
+
+|
 
 管理跟读录音
 ==============
+
 Aboboo记录每次跟读录音，这些录音可以删除，可以导出。
 
 :menuselection:`录音列表 --> 右键菜单 --> 导出`
 
-.. image:: /images/window-spoken-at-will-export-record.png
+.. figure:: /images/window-spoken-at-will-export-record.png
+  :align: center
+
+  随意读导出
 
 
 三种跟读模式
@@ -84,4 +120,7 @@ Aboboo记录每次跟读录音，这些录音可以删除，可以导出。
 随意读面板
 ============
 
-.. image:: /images/spoken-at-will-interface-diagram.jpg
+.. figure:: /images/spoken-at-will-interface-diagram.jpg
+  :align: center
+
+  随意读面板的查看方法
