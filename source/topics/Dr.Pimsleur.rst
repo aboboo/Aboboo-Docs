@@ -31,25 +31,40 @@ Dr.Pimsleur(皮姆斯勒博士)是世界知名的语言学家和教育专家，�
 
   **①** 学了一个英文句子之后的一秒钟，要您马上说出这个句子，那您百分之百能说得出来。
   
-    .. image:: /images/topics/pimsleur-stage-1.jpg
+    .. figure:: /images/topics/pimsleur-stage-1.jpg
+      :align: center
+
+      一秒钟的满满记忆
 
   **②** 一段时间之后，您会逐渐淡忘...
 
-    .. image:: /images/topics/pimsleur-stage-2.jpg
+    .. figure:: /images/topics/pimsleur-stage-2.jpg
+      :align: center
+
+      逐渐淡忘的趋势
 
   **③** 但是您如果在完全忘掉这个句子前，再念一次这个句子，那就能恢复记忆，**遗忘的速度会大幅减缓** 。
 
-    .. image:: /images/topics/pimsleur-stage-3.jpg
+    .. figure:: /images/topics/pimsleur-stage-3.jpg
+      :align: center
+
+      遗忘速度大幅减缓
 
   **④** 经过几次这样的刺激之后，这个句子就会 **进入长期记忆区，再也不会忘记** 。
 
-    .. image:: /images/topics/pimsleur-stage-4.jpg
+    .. figure:: /images/topics/pimsleur-stage-4.jpg
+      :align: center
+
+      进入长期记忆区
 
 
 Aboboo内置Pimsleur(皮姆斯勒)语言学习法
 ============================================
 让您眼看、耳听、口说，快速学习英语最有效，:menuselection:`随意读面板菜单 --> Dr.Pimsleur语言学习法` 
 
-.. image:: /images/topics/menu-pimsleur-on.png
+.. figure:: /images/topics/menu-pimsleur-on.png
+  :align: center
+
+  Aboboo内置Dr.Pimsleur语言学习法
 
 勾选此项后，随意读按照Pimsleur的流程模式，主导您的练习过程，直到完成练习。

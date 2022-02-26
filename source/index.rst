@@ -55,7 +55,7 @@
 * **练口语:**
   :doc:`随意读 <ref/oral/spoken-at-will>` |
   :doc:`全文读 <ref/oral/recite-the-article>` |
-  :ref:`儿童模式 <spoken-at-will-kid-mode>` |
+  :ref:`幼儿模式 <spoken-at-will-kid-mode>` |
   :ref:`Pimsleur(皮姆斯勒)学习法 <dr-pimsleur>` |
   :doc:`Aboboo怎样改善我的口语 <howto/tell-me-exactly-which-word-and-sound-i-am-having-trouble-with>`
 

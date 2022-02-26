@@ -17,19 +17,29 @@
 
 遇到实在听不清的单词，求助“神奇的 :kbd:`Alt` 键”，再难的句子也能把词抠出来。
 
-.. image:: /images/dictation-word-overview.png
+.. figure:: /images/dictation-word-overview.png
+  :align: center
+
+  极富效率的抠次听写
 
 
-神奇的Alt键
+神奇的Alt键 ⌨
 ==============
-确实拼不出的单词，长按 :kbd:`Alt` 键，激活提示器：
+确实拼不出的单词，长按 ⌨ :kbd:`Alt` 键，激活提示器：
 
-提示器有四重渐进式提醒，您应该尽早放开 :kbd:`Alt` 键，自己拼写。
+提示器有四重渐进式提醒，您应该尽早放开 ⌨ :kbd:`Alt` 键，自己拼写。
 
 * 第一重：播放句中读音
 * 第二重：播放字典读音
 * 第三重：显示简明解释
 * 第四重：显示拼写
+
+
+.. figure:: /images/magic-alt.gif
+  :align: center
+
+  神奇的 ⌨ Alt键
+
 
 
 启用难度控制
@@ -48,15 +58,25 @@
 ========================
 听写完毕后，点击 :menuselection:`完成` ，得到成绩单：
 
-.. image:: /images/dictation-word-report.png
+.. figure:: /images/dictation-word-report.png
+  :align: center
+
+  抠词听写成绩单
 
 如果听写未完成，也可以先保存，下次接着听写该文件时，可以选择加载上次的存档进度:
 
-.. image:: /images/dictation-load-last-state.png
+.. figure:: /images/dictation-load-last-state.png
+  :align: center
+
+  加载上次的存档进度
 
 也可以加载另外的进度档:
 
-.. image:: /images/dictation-load-state.png
+.. figure:: /images/dictation-load-state.png
+  :align: center
+
+  选择加载进度档
+
 
 .. tip:: 
   1. 进度档案不包括已完成的听写（进度为100%），请到 :menuselection:`我的 --> 听写` 查看这些记录。

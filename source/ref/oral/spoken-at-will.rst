@@ -55,7 +55,7 @@
 .. figure:: /images/spoken-at-will-english-phoneme-score.png
   :align: center
 
-  音素得分
+  单词评分和音素评分
 
 
 在波形区原文上点击单词，强化练习单词:

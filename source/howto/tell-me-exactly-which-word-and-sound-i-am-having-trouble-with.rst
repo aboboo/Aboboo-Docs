@@ -10,15 +10,24 @@ Aboboo能做到更多，可以针对发音、语调、流利度、音量等项�
 
 * :menuselection:`打开课件 --> 学习 --> 随意读`
 
-  .. image:: /images/spoken-at-will-english.png
+  .. figure:: /images/spoken-at-will-english.png
+    :align: center
+
+    随意读
 
 * 句子评分
 
-  .. image:: /images/spoken-at-will-english-sent-score.png
+  .. figure:: /images/spoken-at-will-english-sent-score.png
+    :align: center
+
+    句子评分
 
 * 单词评分和音素评分
 
-  .. image:: /images/spoken-at-will-english-phoneme-score.png
+  .. figure:: /images/spoken-at-will-english-phoneme-score.png
+    :align: center
+
+    单词评分和音素评分
 
 
 如何使随意读具有评分和纠错功能？
@@ -42,7 +51,7 @@ Aboboo能做到更多，可以针对发音、语调、流利度、音量等项�
 
 * 来观察一次推断（评判）::
 
-   下面的例子不算恰当，只求大致说明问题。
+   下面的例子不算恰当，大致能够说明问题。
   
    ① 隔着很远，你问朋友：“今天晚上去不去？” 
    
