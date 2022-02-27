@@ -8,7 +8,6 @@
 
 字典文件
 ========
-.. versionchanged:: 2.8
 
 1. edd3.dic 英英字典：(5.1 MB) 五万分级单词，也是其他字典的基础；
 2. cwp3.dic 单词图片字典：(123 MB) 七千单词的优质图片；
@@ -27,14 +26,19 @@
 
 检查字典完整性
 ================
-.. versionadded:: 2.5
 
 .. _check-dictionary-data-files: 
 
-:menuselection:`菜单 --> 参数设置 --> 目录设置 --> 应用程序数据目录 --> 检查字典完整性`
+:menuselection:`参数设置 --> 目录设置 --> 应用程序数据目录 --> 检查字典完整性`
 
-.. image:: /images/check-dictionary-data-files.png
+.. figure:: /images/check-dictionary-data-files.png
+  :align: center
+
+  检查字典完整性
 
 检查结果:
 
-.. image:: /images/check-dictionary-data-files-report.png
+.. figure:: /images/check-dictionary-data-files-report.png
+  :align: center
+
+  检查结果

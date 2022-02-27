@@ -6,13 +6,19 @@
 
 进入听音查字
 ============
-听音查字是字典的子功能，必须先进入字典，然后点击 **切换按钮** 或按下 :kbd:`Ctrl-D` 切换到听音查字：
+听音查字是字典的子功能，必须先进入字典，然后点击 **切换按钮** 或按下 ⌨ :kbd:`Ctrl-D` 切换到听音查字：
 
-  .. image:: /images/phonetic-word-search-on.png
+  .. figure:: /images/phonetic-word-search-switch.gif
+    :align: center
+
+    快速切换单词查询/听音查字
 
 进入听音查字后，界面局部变化：
 
-  .. image:: /images/phonetic-word-search.png
+  .. figure:: /images/phonetic-word-search.png
+    :align: center
+
+    听音查字的功能面板
 
 再次切换可以回到单词查询。
 
@@ -27,7 +33,10 @@
 输入框的下方有一个快捷面板：
   
 
-  .. image:: /images/phonetic-select-panel.png
+  .. figure:: /images/phonetic-select-panel.png
+    :align: center
+
+    音标字符快捷输入
 
   鼠标点击按钮输入音标字符，面板上找不到的音标符号，都能与键盘一一对应，用键盘直接录入。
 
@@ -58,7 +67,10 @@
 
   30000以内的查询结果：
   
-  .. image:: /images/phonetic-word-search-select-range.png
+  .. figure:: /images/phonetic-word-search-select-range.png
+    :align: center
+
+    选择过滤范围
 
   .. tip:: 
     请选择恰当的过滤范围，范围太小查不到，范围太大干扰多。

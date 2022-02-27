@@ -10,11 +10,17 @@
 ========
 造句练习支持鼠标点选和拖拽，也支持键盘操作，操控性很好。
 
-.. image:: /images/making-sentence-a.png
+.. figure:: /images/making-sentence-a.png
+  :align: center
+
+  操控体验极佳的造句练习
 
 鼠标左键点选单词或拖拽单词改变位置，也可用左右方向键、回车键、空格键选择单词。
 
-.. image:: /images/making-sentence-b.png
+.. figure:: /images/making-sentence-b.gif
+  :align: center
+
+  🖱 点选 拖拽 ⌨ 方向键 空格/回车
 
 难度可选
 ========
@@ -24,7 +30,7 @@
 
 限时造句
 ========
-必须在规定时间内完成造句，限定时间内没有搞定，划个红叉；
+必须在规定时间内完成造句，限定时间内没有搞定，划个红叉。
 
 痕迹保留
 ========

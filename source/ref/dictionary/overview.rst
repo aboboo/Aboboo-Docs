@@ -2,7 +2,7 @@
 查字典
 ======
 
-.. rubric:: 字典不能用，请首先 :ref:`检查字典完整性 <check-dictionary-data-files>` 。
+.. rubric:: 如果遇到字典不可用的情况，请首先 :ref:`检查字典完整性 <check-dictionary-data-files>` 。
 
 .. contents:: :local:
 
@@ -10,16 +10,33 @@
 ========
 有三种途径进入字典: 
 
-* :menuselection:`主菜单 --> 字典` （热键 :kbd:`F12`）
+* :menuselection:`工具 --> 学习工具 --> 字典` （⌨ 热键 :kbd:`F12`）
 
-* 在单词上 :menuselection:`右键弹出菜单 --> 英英字典中查询` （ :kbd:`Ctrl-鼠标右键`）
+  .. figure:: /images/dictionary-tools-dictionary.png
+    :align: center
 
-  .. image:: /images/dictionary-context-menu.png
+    :menuselection:`工具 --> 学习工具 --> 字典` （⌨ 热键 :kbd:`F12`）
+
+|
+
+* 在单词上 :menuselection:`右键弹出菜单 --> 英英字典中查询` （🖱 :kbd:`Ctrl-鼠标右键`）
+
+  .. figure:: /images/dictionary-context-menu.png
+    :align: center
+
+    在英英字典中查询光标所在单词
+
+|
+
+* 在单词上 :menuselection:`右键弹出菜单 --> 迷你字典中查询` （🖱 :kbd:`Ctrl-鼠标左键`）
   
-* 在单词上 :menuselection:`右键弹出菜单 --> 迷你字典中查询` （ :kbd:`Ctrl-鼠标左键`）
-  
-  .. image:: /images/dictionary-mini.png
-  
+  .. figure:: /images/dictionary-mini.png
+    :align: center
+
+    在迷你字典中查询光标所在单词
+
+|
+
 支持六种查询方式
 =================
 1. 完全: 与查询字符串完全一致；
@@ -40,61 +57,119 @@
 =============
 * edd.dat(5.2 MB) 五万分级单词，也是其他字典的基础
   
-  .. image:: /images/dictionary-overview-edd.png
+  .. figure:: /images/dictionary-overview-edd.png
+    :align: center
+
+    英英字典
+
+|
 
 * 波形面板
   
-  .. image:: /images/dictionary-wave-panel.png
+  .. figure:: /images/dictionary-wave-panel.png
+    :align: center
+
+    波形面板
+
+|
 
 * 可随时进入随意读，跟读单词。
   
-  .. image:: /images/dictionary-word-spoken-at-will.png
+  .. figure:: /images/dictionary-word-spoken-at-will.png
+    :align: center
+
+    单词随意读
+
+|
 
 单词图片字典
 =============
 cwp.dat(58 MB) 五千单词的优质图片
 
-.. image:: /images/dictionary-overview-cwp.png
+.. figure:: /images/dictionary-overview-cwp.png
+  :align: center
+
+  单词配图字典
 
 * 点击小喇叭朗读，单击小加号加入生词本
 * :kbd:`Ctrl-右键` （或双击左键）查询单词
 * :kbd:`Ctrl-左键` 迷你字典查询单词
-  
+
+|
+
 英汉/汉英字典
 =============
 ced.dat(32 MB) 三十万英汉/汉英详尽解释
 
-.. image:: /images/dictionary-overview-ced.png
+.. figure:: /images/dictionary-overview-ced.png
+  :align: center
+
+  英汉/汉英字典
+
+|
 
 常用搭配字典
 =============
 dpd.dat(3.4 MB) 两万单词搭配用法
 
-.. image:: /images/dictionary-overview-dpd.png
+.. figure:: /images/dictionary-overview-dpd.png
+  :align: center
+
+  常用搭配字典
+
+|
 
 例句字典
 =============
 sdp.dat(929 MB) 十五万真人语音例句
 
-* 点击小喇叭朗读例句，单击小加号加入句库。
+* 点击喇叭图标朗读例句，点击翻译图标在线翻译，点击加号图标加入句库。
 
-  .. image:: /images/dictionary-overview-sdp.png
+  .. figure:: /images/dictionary-overview-sdp.png
+    :align: center
+
+    例句字典
+
+|
 
 * 可以随时进入随意读，跟读例句。
 
-  .. image:: /images/dictionary-example-spoken-at-will.png
+  .. figure:: /images/dictionary-example-spoken-at-will.png
+    :align: center
+
+    随意读例句
+
+|
 
 * 例句字典可以导出成MP3和LRC文件，方便您在mp3播放器上学习。
 
   :menuselection:`例句 --> 例句导出成MP3`
 
-  .. image:: /images/dictionary-example-export.png
+  .. figure:: /images/dictionary-example-export.png
+    :align: center
+
+    例句导出
+
+|
+
+* 批量加入句库（VIP）
+
+点击“批量加入句库”按钮，将所有例句加入句库。
+
+  .. figure:: /images/dictionary-example-add-into-my-examples.png
+    :align: center
+
+    批量加入句库
+
 
 单词读音
 ====================
 * mall.dat(108 MB) 真人美音
 * ball.dat(151 MB) 真人英音
 
-  :menuselection:`菜单 --> 参数设置 --> 单词发音 --> Aboboo自带语音库 --> 语音库优先选择`
+  :menuselection:`菜单 --> 参数设置 --> 单词发音 --> Aboboo自带单词语音库 --> 语音优先选择`
 
-  .. image:: /images/dictionary-choose-mall-or-ball.png
+  .. figure:: /images/dictionary-choose-mall-or-ball.png
+    :align: center
+
+    单词读音设置

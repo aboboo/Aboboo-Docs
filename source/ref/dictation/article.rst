@@ -8,7 +8,11 @@
 
 自由听写
 ========
-.. image:: /images/dictation-article-overview.png
+
+.. figure:: /images/dictation-article-overview.png
+  :align: center
+
+  自由听写
 
 自由听写提供更自由的控制，摆脱单句限制：
 
@@ -24,19 +28,27 @@
 ========================
 听写完毕后，点击 :menuselection:`完成`，得到成绩单：
 
-.. image:: /images/dictation-article-report.png
+.. figure:: /images/dictation-article-report.png
+  :align: center
+
+  自由听写成绩单
 
 如果听写未完成，也可以先保存，下次接着听写该文件时，可以选择加载上次的存档进度:
 
-.. image:: /images/dictation-load-last-state.png
+.. figure:: /images/dictation-load-last-state.png
+  :align: center
+
+  加载上次的存档进度
 
 也可以加载另外的进度档:
 
-.. image:: /images/dictation-load-state.png
+.. figure:: /images/dictation-load-state.png
+  :align: center
+
+  选择加载进度档
 
 .. tip:: 
-  1. 进度档案不包括已完成的听写（进度为100%），请到 :menuselection:`我的 --> 听写` 查看这些记录。
-  2. 抛开鼠标，完全用键盘，听写更流畅。
+   抛开鼠标，完全用键盘，听写更流畅。
 
 快捷操作
 ===========

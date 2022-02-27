@@ -6,16 +6,43 @@
 
 .. contents:: :local:
 
-两个入口 
+三个入口 
 ========================
 
-* :menuselection:`工具箱 --> 学习工具 --> 单词发音训练`
+* :menuselection:`工具 --> 学习工具 --> 单词发音训练`
 
-  .. image:: /images/vocabulary-training-entrance.png
+  .. figure:: /images/vocabulary-training-entrance.png
+    :align: center
 
-* 如果当前课件内置了“单词列表”，通过 :menuselection:`内容区菜单 --> 单词`，直接将课件的单词列表带入单词发音训练。
+    :menuselection:`工具 --> 学习工具 --> 单词发音训练`
 
-  .. image:: /images/vocabulary-training-from-courseware.png
+|
+
+* 如果当前课件内置了“单词列表”，通过 :menuselection:`单词`，直接将课件的单词列表带入单词发音训练。
+
+  .. figure:: /images/vocabulary-training-from-courseware.png
+    :align: center
+
+    课件内置单词列表直接导入单词发音训练
+
+|
+
+* 使用单词过滤器，将过滤后的单词列表带入单词发音训练。
+
+  .. figure:: /images/vocabulary-filter-preference.png
+    :align: center
+
+    单词过滤器
+
+|
+
+  .. figure:: /images/vocabulary-training-from-vocab-filter.png
+    :align: center
+
+    借助单词过滤器带入单词发音训练
+
+|
+
 
 导入待练习的单词
 ==================
@@ -35,10 +62,22 @@
 * 播放模式: 单个播放、单个循环、顺序播放、循环播放。
 * 批量导出: 单词列表可导出MP3或导出文本文件，便于下次继续学习。
 
-.. image:: /images/vocabulary-training-overview.png
+.. figure:: /images/vocabulary-training-overview.png
+  :align: center
+
+  单词发音训练
+
+|
 
 幻灯片模式
 ============
+
+.. figure:: /images/vocabulary-training-presentation-mode.png
+  :align: center
+
+  单词发音训练 幻灯片模式
+
+|
 
 幻灯模式下的键盘快捷键与课件播放时相同: 
 
