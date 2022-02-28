@@ -6,13 +6,38 @@
 课件编辑器在设计之初已经考虑到这项功能：
 
 1. 备好待替换课件和新的MP3，打开课件制作向导
-    .. image:: /images/ke-jian-zhi-zuo/cai-dan-ke-jian-zhi-zuo-xiang-dao.png
+
+    .. figure:: /images/courseware-editor/menu-courseware-editor.png
+      :align: center
+
+      打开课件制作向导
+
+|
+
 2. 选择 **1 打开MP3/WAV文件制作课件** ，打开新MP3；
-    .. image:: /images/ke-jian-zhi-zuo/da-kai-mp3-wav.png
+   
+    .. figure:: /images/courseware-editor/step-1-choice-1.png
+      :align: center
+
+      选择 **1 打开MP3/WAV文件制作课件**
+
+|
+
 3. 菜单 -> 导入 -> 从已有Q99课件文件中导入数据
-    .. image:: /images/ke-jian-zhi-zuo/cai-dan-cong-q99-dao-ru-shu-ju.png
+   
+    .. figure:: /images/courseware-editor/import-data-from-q99-file.png
+      :align: center
+
+      从已有Q99课件文件中导入数据
+
+|
+
 4. 被导入的数据包含这些内容：
+
     * 课件属性设置：名称、作者、一二级分类、课程编号、语言类型、简要描述、查询用标记
     * 句子内容：句子原文、译文、注释、读音标记、对话角色、是否选中播放
     * 全文内容：单词列表、内容、图片、样式等全部内容
+
+|
+
 5. 开始编辑课件的各部分内容直到完成并保存，并请在简要描述中注明更换音频等描述信息。

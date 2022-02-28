@@ -3,14 +3,12 @@
 
 可以通过“启用回放增益”来解决，“回放增益”把不标准的音量调节到最适宜人耳的标准音量，声音大得炸耳朵的音频变柔和，声音小到听不清的音频变清除。
 
-* 启用回放增益：
+* 开启回放增益，将不同音量的音频调整为标准音量：
 
-  .. image:: /images/playback-gain-on.png
+  .. figure:: /images/volumn-control.png
+    :align: center
 
-* 首次启用，需要扫描音频增益：
+    开启回放增益
 
-  .. image:: /images/playback-gain-scanning.png
+首次启用，需要扫描音频增益。
 
-* 状态栏提示增益效果：
-
-  .. image:: /images/status-bar-playback-gain-on.png

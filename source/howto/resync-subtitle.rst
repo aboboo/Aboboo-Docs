@@ -7,10 +7,16 @@
 
 1. 找到断点批量移动功能项:
   
-  .. image:: /images/menu-resync-subtitle.png
+  .. figure:: /images/menu-resync-subtitle.png
+    :align: center
 
-2. 选择要移动的方向，输入移动的距离（秒数）:
+    打开波形面板选项
+
+2. 输入移动步长（秒数），点击要移动的方向:
   
-  .. image:: /images/dialog-resync-subtitle-to-left.png
+  .. figure:: /images/dialog-resync-subtitle-to-left.png
+    :align: center
+
+    输入步长 选择方向
     
 3. 如果看到视频或听到声音了，还没看到字幕，请将断点整体前移（向左）；反之，则将断点整体后移（向右）。

@@ -8,7 +8,7 @@
 
    discard-courseware-local-data
    tell-me-exactly-which-word-and-sound-i-am-having-trouble-with
-   geng-huan-ke-jian-de-yin-pin
+   replace-audio-of-courseware
    resync-subtitle
    export-content-from-courseware
    playback-gain
