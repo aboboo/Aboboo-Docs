@@ -41,7 +41,7 @@
 
 移除
 ====
-在播放列表上按 :kbd:`Delele` 删除，也可以 :menuselection:`弹出菜单 --> 从播放列表中清除文件` 
+在播放列表上选中要移除的课件， :menuselection:`浮动工具条 --> 从列表中删除高亮的课件` 。
 
 .. figure:: /images/playlist-menu-remove.png
   :align: center
@@ -97,7 +97,7 @@
 播放模式
 ======================
 
-默认为“单首播放”，还可以选择“单首循环”、“顺序播放”、“循环播放”、“随机播放”。
+默认为“单首播放”，还可以选择“单首循环”、“顺序播放”、“循环播放”。
 
 .. figure:: /images/playlist-menu-play-mode.png
   :align: center

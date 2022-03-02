@@ -6,7 +6,7 @@
 欢迎使用 Aboboo 帮助文档
 =============================
 
-.. rubric:: 阅读这份文档，了解Aboboo，学外语更高效。
+.. rubric:: 阅读这份文档，了解Aboboo，学习更高效。
 
 首要步骤
 =========
@@ -87,5 +87,14 @@
 文档计划
 ================
 
-* **文档和项目:** Aboboo功能很多，适用多种学习方法，也许您独有优秀的理论和实践，`欢迎您贡献一份力量，加入 Aboboo-Docs <https://github.com/aboboo/Aboboo-Docs/>`_ 。 
-* **授权和更新:** 这份文档使用 `知识共享署名 3.0 Unported许可协议 <http://creativecommons.org/licenses/by/3.0/>`_  进行许可，文档将保持更新，尽可能与Aboboo软件保持同步。
+* **文档和项目:** Aboboo功能丰富，适用多种学习方法，也许您独有优秀的理论和实践，|aboboo-doc-github-link| 。 
+* **授权和更新:** 这份文档使用 |creativecommons-licenses-link| 进行许可，文档将保持更新，尽可能与Aboboo软件保持同步。
+
+
+.. |aboboo-doc-github-link| raw:: html
+
+   <a href="https://github.com/aboboo/Aboboo-Docs/" target="_blank">欢迎您贡献一份力量，加入 Aboboo-Docs</a>
+
+.. |creativecommons-licenses-link| raw:: html
+
+   <a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">知识共享署名 3.0 Unported许可协议</a>

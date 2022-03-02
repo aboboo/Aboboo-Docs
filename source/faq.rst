@@ -74,7 +74,7 @@ FAQs
 | A： **参数设置** >> **初始化视频设置** 。
 |
 | Q: RMVB视频不能播放怎么办？
-| A: `安装 Microsoft Visual C++ 库运行时组件 <http://www.microsoft.com/downloads/details.aspx?FamilyID=200b2fd9-ae1a-4a14-984d-389c36f85647&DisplayLang=zh-cn>`_
+| A: |vc-redist-link|
 | 
 | Q：日文、韩文、法文、德文等语言和其他小语种在听写录入时显示不正常怎么办？
 | A：在输入区右键菜单中选择字体设置，将输入字体修改为能够正常显示你所用语言的字体。
@@ -87,3 +87,7 @@ FAQs
 |
 | Q: 为什么字典只有英英解释？
 | A: 因为你只安装了英英字典，图片、英汉/汉英、常用搭配、单词美音、单词英音和语音例句等字典在七合一字典包中，请下载七合一字典包并解压到data目录，重启Aboboo即可。
+
+.. |vc-redist-link| raw:: html
+
+   <a href="https://docs.microsoft.com/zh-CN/cpp/windows/latest-supported-vc-redist?view=msvc-170" target="_blank">安装 Microsoft Visual C++ 库运行时组件</a>

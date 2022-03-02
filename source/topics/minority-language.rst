@@ -7,7 +7,7 @@
 
 如何检查哪些快捷键冲突呢？
 
-:menuselection:`基本设置 --> 快捷键 --> 在系统托盘区域选择小语种输入法 --> 刷新快捷键`
+:menuselection:`参数设置 --> 快捷键 --> 在系统托盘区域选择小语种输入法 --> 刷新快捷键`
 
 .. image:: /images/topics/minority-language-setting-shortcuts.png
 
